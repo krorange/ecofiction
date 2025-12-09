@@ -1,0 +1,915 @@
+doc_id,lemma,supersense,matched_verb,verb_type,sentence
+montero1997,toad,noun.animal,succumb,agency,A healthy toad should not succumb to an Aeromonas infection .
+montero1997,tadpole,noun.animal,obtain,agency,No one ever discovered how the tadpoles obtained oxygen or excreted their wastes .
+montero1997,bug,noun.animal,know,agency,"I turned on my flashlight and covered my face with insect repellent ; I offered some to Thierry but he refused : The bugs knew him by now , years ago they had bitten him plenty"
+montero1997,rat,noun.animal,know,agency,"A pwazon rat knows how to defend himself , it 's his duty to defend himself with nails and teeth , with a machete , with whatever he needs , but he never screams ."
+montero1997,ostrich,noun.animal,kill,agency,"The first time I saw an ostrich killed - its head was cut off — I thought it was a simple , painless death ."
+montero1997,worm,noun.animal,join,agency,"The head rolled to one side while the limp worm of a neck , still joined to the body , continued to move for a moment ."
+morse1998,cow,noun.animal,know,agency,"the cows out of the barn , and opens the pigs - sty , and we dunna know whither to run , so 's we stands shill - I - shall - I and then follows the pigs up the hill , with the ground a - rollicking under us so 's one foot scarce knows where the other'n be ."
+morse1998,Turkeys,noun.animal,say,agency,""" 26 a а а “ Turkeys and deer everywhere , "" said Matthew , before she could answer , "" and cod the size of cows ? ” “ Hast tha seen an alligator ? ”"
+morse1998,lamb,noun.animal,recognize,both,"When he went away to boarding school at Worcester and returned at Easter , the lamb did not recognize him ."
+morse1998,seed,noun.plant,say,agency,"“ Every seed , ” said Abiah , “ hath its time of ripening . ”"
+melville1849,flower,noun.plant,refuse,both,""" Yet so it is , "" said Yoomy , sadly , "" that where that shadow falls , gay flowers refuse to spring ; and men long dwelling therein become shady of face and of soul ."
+melville1849,bird,noun.animal,know,agency,"And , in a good measure , this held true of all tongues spoken throughout the Archipelago ; the birds marveling at mankind , and mankind at the birds ; wondering how they could continually sing ; when , for all man knew to the con- trary , it was impossible they could be holding intelligent discourse ."
+melville1849,daffodil,noun.plant,say,agency,"Said Yoomy , "" Still I swiftly follow , behind revenge ' Then were showered faded , pallid daffodils ."
+melville1849,crocodile,noun.animal,say,agency,""" "" Nothing of the kind , "" said Mohi . about it , minstrel ? crocodiles ."
+melville1849,tail,noun.animal,lose,both,"I am the mildest devil that ever enter- ed man ; in propria persona , no antlers do I wear ; my tail has lost its barb , as at last your Mardian lions lose their caudal horns ."
+melville1849,tail,noun.animal,lose,both,"But , prithee , who are you , sirrah ? "" "" The mildest devil that ever entered man ; in propria persona , no antlers do I wear ; my tail has lost its barb , as at last your Mardian lions lose their caudal horns ."
+melville1849,lion,noun.animal,lose,both,"But , prithee , who are you , sirrah ? "" "" The mildest devil that ever entered man ; in propria persona , no antlers do I wear ; my tail has lost its barb , as at last your Mardian lions lose their caudal horns ."
+melville1849,skull,noun.animal,resist,experience,"Nor casque of steel , nor skull of Congo could have resisted their blows , had they fallen upon the mark ; for they seemed bent upon driving each other , as stakes , into the earth ."
+melville1849,wag,noun.animal,do,agency,""" "" Perhaps so , ' said Babbalanja , "" but some wag must have done it . """
+melville1849,tree,noun.plant,do,agency,But so do the palm- trees ; and the giraffes that graze off their tops .
+melville1849,lark,noun.animal,join,agency,"And though you demi - gods , may dine at your ease ; and dine it out into night and sit and chirp over your Burgundy , till the morning larks join your crick- ets , and we d matins to vespers ; -far otherwise , with us plebeian mortals ."
+matthiessen1965,jay,noun.animal,lose,both,"The jays and squirrels had lost all fear of him , flicking over and about him as if he had turned to stone , and the shrill of insects crystallized in a huge ringing silence ."
+matthiessen1965,vine,noun.plant,induce,agency,"In addition to certain medical properties , the vine can induce vi- sions , telepathic states , metaphysical contemplation and transmi- gration ; these conditions are used by the Indians for the reception of warnings , prophecies and good counsel ."
+matthiessen1965,sapling,noun.plant,support,agency,"The crude chapel they had built - crotched saplings supported its eave pole , the bamboo sides were walled with mud , and the roof bamboos were overlaid with palm fronds - seemed to Quarrier the loveliest building he had ever seen ."
+matthiessen1965,bird,noun.animal,utter,agency,In the silence the bird uttered one soft gargle of apprehension and was still .
+matthiessen1965,insect,noun.animal,cure,agency,"He was already used to the night cold , the biting insects , the mild chronic malaria ; though the food - mostly half - cooked fish and manioc - had given him dysentery , Boronai had cured him quickly with some seeds from the greenheart tree ."
+matthiessen1965,pig,noun.animal,leave,agency,"The Indian only nodded at the peccary , mur- muring something that Moon could not catch ; the pigs left off clicking their tusks and resumed their rooting in the decayed wood ."
+matthiessen1965,termite,noun.plant,eat,agency,"Already the machete blade was coarse with rust , and before long the termites would eat away the wooden haft and the cross carved upon it ."
+matthiessen1965,hawk,noun.animal,join,agency,"Silver night - hawks , crisscrossing the pale surface of the river like night swallows , joined the evening hunt ; a jaguar coughed from the far bank , downriver ."
+davenport1994,flower,noun.plant,change,agency,"When she sang , flowers changed color , spotted deer dissolved into the bark of trees as hunters passed with bow and arrow ."
+davenport1994,whale,noun.animal,see,experience,"As the line slackened it was taken in , and as the whale lay quietly , the boat approached again , keeping clear of the flukes , staying far enough back so the whale could n't see what was coming ."
+davenport1994,virus,noun.animal,destroy,both,"For days , Kelonikoa and Mathys prayed over their firstborn , watching the virus destroy him ."
+davenport1994,pet,noun.animal,eat,agency,"“ And you , still , catering to mainland haole whose pets eat better than our kids !"
+davenport1994,grape,noun.plant,cure,agency,I d teach you what grapes cure the bite of deaf adders .
+davenport1994,shark,noun.animal,kill,agency,""" A fifteen - foot shark had killed a local woman swimming in known breeding waters , a resting place for ‘ aumākua mano ."
+berry2000,tree,noun.plant,continue,both,"They all gazed downward like treed coons , and then they gazed upward as if hop- ing to find that the tree continued into the sky like Jack 's bean stalk ."
+berry2000,dog,noun.animal,think,agency,Even the dogs and the hogs thought so .
+berry2000,bird,noun.animal,see,experience,"I saw as a bird sees , each eye looking out on its own in a different direction , no two images ever resolving into one ."
+berry2000,mosquito,noun.animal,leave,agency,"If the mosquitoes will leave me alone , I love to sit or lie out on the porch and watch the dark come ."
+erdrich1988,mink,noun.animal,try,agency,"He saw a trail where those mink tried to hide inside a muskrat house , and trapped them that same afternoon ."
+erdrich1988,animal,noun.animal,understand,both,"He said the animals understood what was happening , how they were dwindling ."
+erdrich1988,bird,noun.animal,leave,agency,"We came back every night with great bundles of sticks , tongues rancid from the watery berries even the birds had left , and we sat down together to peel ."
+erdrich1988,pack,noun.animal,exist,both,Let me tell you how that pack of dogs existed .
+erdrich1988,tree,noun.plant,leave,agency,""" The trees left standing get more sun , grow thick ."
+erdrich1988,hoof,noun.animal,do,agency,"The lumber men often used drags or sledges , and these too had cut the earth , as did the shod hooves of animals ."
+paton1948,ant,noun.animal,eat,agency,Behind the polished panelling the white ant eats away the wood .
+allende2002,piranha,noun.animal,eat,agency,"She told Alex about the time she had watched as a caiman , badly wounded by a jaguar , dragged itself into the water , where piranhas ate into the wound and devoured the caiman from the inside in a matter of minutes , leaving its hide intact ."
+allende2002,monkey,noun.animal,understand,both,Alex had the impression that the monkey understood its owner 's words perfectly .
+allende2002,jaguar,noun.animal,recognize,both,""" The jaguar recognized you because it is your totemic animal , ” she said ."
+allende2002,animal,noun.animal,see,experience,"No one moved , paralyzed with surprise , and that saved them because the animal , like Alex , did not see well in the dark ."
+allende2002,animal,noun.animal,communicate,agency,""" All animals can communicate , ” she insisted ."
+allende2002,ant,noun.animal,leave,agency,The ant had left a small white mark that within a few minutes had turned as hard and round as a cherry .
+allende2002,dog,noun.animal,do,agency,"When he woke , he was curled up on a straw mat between two husky warriors who were snoring and snorting in his ear the way his dog , Poncho , always did ."
+allende2002,bird,noun.animal,see,experience,"That is why we are careful when we make fire , so that the bird will not see the smoke ."
+allende2002,egg,noun.animal,save,agency,Walimai believes that the eggs will save the People of the Mist . ”
+allende2002,egg,noun.animal,mean,agency,What did those three crystal eggs mean that Nadia had seen in her dream ?
+allende2002,fish,noun.animal,forget,agency,He walked into the river up to his City OF THE BEASTS · 245 knees and stood motionless and silent until the fish forgot his presence and began to dart around him .
+allende2002,fish,noun.animal,eat,agency,"Now he was absorbing what Nadia was saying "" It understands because that fish has eaten other fish ; now it is its turn to be eaten ."
+allende2002,dragon,noun.animal,do,agency,"The dragon of the grotto did many different CITY OF THE BEASTS · 259 not emit flames , but the penetrating perfume of a cour- tesan ."
+allende2002,bird,noun.animal,destroy,both,"They watched as the cannibal - bird destroyed the cage and was free to devour everything in its path , but a white eagle and a black jaguar stood in its way , challenging it to a fight to the death ."
+allende2002,Jaguar,noun.animal,do,agency,“ Jaguar and Eagle ... will do battle ... with the Rahakanariwa . ...
+allende2002,egg,noun.animal,say,agency,""" The three eggs in the nest , ” Nadia said without hesitation ."
+allende2002,eagle,noun.animal,know,agency,"She felt her soft and curly hair changing into strong feath- ers that lay flat against her skull but that bristled when she willed , feathers that contained everything eagles know , antennae that perceived anything in the air , even the invisible ."
+allende2002,egg,noun.animal,save,agency,"From above , she saw the eggs glittering in the nest , just as in the vision , and she experienced the same convic- tion she had then : Those eggs would save the People of the Mist ."
+allende2002,monkey,noun.animal,see,experience,"As soon as the monkey saw his mistress , he raced to her with obvious relief and wound his arms around her neck ."
+allende2002,jaguar,noun.animal,try,agency,What message was the jaguar trying to send him ?
+allende2002,monkey,noun.animal,save,agency,“ You actually think that little monkey can save us ? ” she snorted .
+allende2002,beast,noun.animal,retire,agency,"The two Beasts that had attacked in tandem retired at their habitual lumbering pace , but their odor persisted most of the night ."
+popham1990,wasp,noun.animal,change,agency,"The wasp changed its ap- proach and straddled it , inching the caterpillar awkwardly forward beneath its body ; but it still could n't make the cater- pillar slant downward into the hole ."
+popham1990,snake,noun.animal,leave,agency,"Only a snake or a creature dragging an injured leg left an uninterrupted , continuous track like a vehicle 's ; but a snake or an injured leg left a nar- row furrow , not a broad band like a tire 's track ."
+popham1990,snake,noun.animal,leave,agency,"Only a snake or a creature dragging an injured leg left an uninterrupted , continuous track like a vehicle 's ; but a snake or an injured leg left a nar- row furrow , not a broad band like a tire 's track ."
+popham1990,coyote,noun.animal,continue,both,"When the coyote continued to lie there , Brand X impatiently swiped him with a paw ."
+popham1990,stallion,noun.animal,assume,both,"When the stallion had come on Nabisco , dozing with droopy neck down in the wash , Nabisco had looked so old and lackluster that the stallion had assumed the takeover of the mares would be easy , that the old one would do no more than put up a brief , halfhearted show of resis- tance , then flee ."
+popham1990,stallion,noun.animal,see,experience,"With Nabisco down , the stallion saw a happy ending in store after all ."
+popham1990,coyote,noun.animal,do,agency,"Second - guessing what the coyote would do , Knapp fired the instant the coyote veered for it ."
+popham1990,coyote,noun.animal,do,agency,Your own story says that all those coyotes did was raid a dump !
+popham1990,lizard,noun.animal,escape,agency,"Dinty Moore leaped back , startled out of his wits to find himself bloodied in such a manner ; and the lizard escaped ."
+popham1990,fish,noun.animal,do,agency,"He gingerly tapped it twice with the side of his paw to be sure it was dead and lowered his nose to it carefully and slowly until it almost touched , then jerked it back as if fearing the fish might do something sudden , unexpected ."
+popham1990,fish,noun.animal,change,agency,The stone - boned fish had not changed when he scraped it with his paw .
+popham1990,fossil,noun.animal,leave,agency,"As soon as they reached the wind - bent paloverde on the rocky outcropping , Brand X pawed the ground to loosen small stones and nosed them into the hole the fish fossil had left ."
+london1903,dog,noun.animal,do,agency,"He felt it , as did the other dogs , and knew that a change was at hand ."
+london1903,husky,noun.animal,add,agency,"Dub was badly injured in a hind leg ; Dolly , the last husky added to the team at Dyea , had a badly torn throat ; Joe had lost an eye ; while Billee , the good - natured , with an ear chewed and rent to ribbons , cried and whimpered throughout the night ."
+london1903,horse,noun.animal,do,agency,"They hauled cabin logs and firewood , freighted up to the mines , and did all manner of work that horses did in the Santa Clara Valley ."
+london1903,dog,noun.animal,do,agency,"For the pride of trace and trail was his , and , sick unto death , he could not bear that another dog should do his work ."
+london1903,dog,noun.animal,know,agency,"The whips snapped , the bells tinkled merrily , the sleds churned along the trail ; but Buck knew , and every dog knew , what had taken place behind the belt of river trees ."
+london1903,dog,noun.animal,lose,both,"The rest of his mates , though lighter dogs , had relatively lost more weight than he ."
+london1903,dog,noun.animal,do,agency,"It is a saying of the country that an Outside dog starves to death on the ration of the husky , so the six Outside dogs under Buck could do no less than die on half the ration of the husky ."
+london1903,beast,noun.animal,do,agency,""" Though it 's little faith I 'm having , John , that the beast can do the trick ."
+austin1909,pine,noun.plant,leave,agency,"In time they passed quite through the saw- cut canons by Kern and Kings rivers and possessed all the east slope of the San Joaquin , but chiefly they settled by small clans and family groups where the pines leave off and the sage begins and the desert abuts on the great LOST BORDERS Sierra fault ."
+austin1909,antelope,noun.animal,forget,agency,Since the beginning of the law the antelope had half forgotten his fear of man .
+austin1909,coyote,noun.animal,learn,agency,In seven years a coyote may learn somewhat ; those of the Ceriso learned the ways of Little Pete and the antelope .
+austin1909,coyote,noun.animal,see,experience,"The coyote that kept the watch at the head of the ravine saw him come , and lifted up his voice in the long - drawn dolorous whine that warned the other watchers in their unseen stations in the scrub ."
+austin1909,coyote,noun.animal,forget,agency,"The afternoon wore on ; the homesteader hid in the reeds , and the coyotes had forgotten him ."
+varley1980,horse,noun.animal,do,agency,She did what every horse does in every parade - usually in front of the reviewing stand — and with the same lack of shame .
+varley1980,snake,noun.animal,approve,agency,The snake coiled around Robin 's arm and darted her tongue ; she approved of the damp heat of the shower room .
+varley1980,animal,noun.animal,survive,both,An oxygen- breathing animal placed inside could survive until it died of starva- tion .
+varley1980,animal,noun.animal,try,agency,"This part of Hyperion held no predators that would give her trouble , though some small animals might try a nibble ."
+varley1980,snake,noun.animal,survive,both,"Then she compul- sively questioned Chris and Valiha , asking them if they thought the snake would survive ."
+varley1980,animal,noun.animal,exist,both,"She did not believe it was the Night Bird ; even in her present state she knew no such animal had ever existed , either here or on Earth ."
+herbert1965,beast,noun.animal,kill,agency,Those horns were sprayed with a transparent fixative within hours after this beast killed the Old Duke . ”
+herbert1965,worm,noun.animal,leave,agency,“ Wait for the worm to leave . ”
+herbert1965,worm,noun.animal,destroy,both,The worms will destroy all evidence .
+herbert1965,leave,noun.plant,provide,agency,Leaves or black shade could provide another 18 ° of cooling .
+adams1974,rabbit,noun.animal,say,agency,"“ Oh , it 's only Fiver , ” said the black - tipped rabbit , “ jumping at bluebottles again ."
+adams1974,rabbit,noun.animal,say,agency,"Come on , Buckthorn , what were you telling me ? ” “ Fiver ? ” said the other rabbit ."
+adams1974,rabbit,noun.animal,leave,agency,"Blackberry , the rabbit with tipped ears who had been startled by Fiver the night before , had listened carefully to Hazel 's description of the notice board , remarking that he had always felt sure that men left these things about to act as signs or messages of some kind , in the same way that rabbits left marks on runs and gaps ."
+adams1974,rabbit,noun.animal,do,agency,I told him that the Owsla 's privileges did n't mean all that much to me in any case and that a strong rabbit could always do just as well by leaving the warren .
+adams1974,rabbit,noun.animal,say,agency,""" Dandelion ? "" “ No , I 'm Hawkbit , ” said the rabbit who was peering over the edge ."
+adams1974,rabbit,noun.animal,say,agency,"Some rabbits say he controls the weather , because the wind , the damp and the dew are friends and instruments to rabbits against their enemies ."
+adams1974,rabbit,noun.animal,see,experience,"I know what we ought to be looking for a high , lonely place with dry soil , where rabbits can see and hear all round and men hardly ever come ."
+adams1974,rabbit,noun.animal,eat,agency,"True , rabbits could not eat these plants : he could smell that ."
+adams1974,rabbit,noun.animal,do,agency,Both rabbits did so .
+adams1974,cat,noun.animal,do,agency,"He was opening and shutting his mouth and licking his lips , much as a cat does when something disgusts it ."
+adams1974,tree,noun.plant,help,agency,"And if we 're fairly close to the wood opposite , the trees will help to break the wind a bit in winter ."
+adams1974,buck,noun.animal,help,agency,"This is the natural job of a doe making a home for her litter before they are born , and then her buck helps her ."
+adams1974,rabbit,noun.animal,offer,agency,"“ A rabbit called Cowslip offered us shelter here , ” said Hazel ."
+adams1974,rabbit,noun.animal,do,agency,""" A rabbit called Laburnum did it , some time ago now ."
+adams1974,rabbit,noun.animal,know,agency,"Also , he found that whenever he moved into one group or another the warren rabbits evidently knew who he was and treated him as the leader of the newcomers ."
+adams1974,rabbit,noun.animal,refuse,both,""" There is a rabbit saying , “ In the warren , more stories than passages ” ; and a rabbit can no more refuse to tell a story than an Irishman can refuse to fight Hazel and his friends conferred ."
+adams1974,animal,noun.animal,know,agency,"* * El - ahrairah , ' replied Prince Rainbow , ‘ all the animals know that you are a thief and a trickster ."
+adams1974,rabbit,noun.animal,eat,agency,"Disgusting rabbit , eat that lettuce !"
+adams1974,mouse,noun.animal,say,agency,"“ How many field mice say that every night , I wonder ?"
+adams1974,buck,noun.animal,do,agency,Solitary bucks and unmated rabbits who are wandering do this for quite long periods especially in summer .
+adams1974,rabbit,noun.animal,know,agency,"“ Those rabbits we left - Cowslip and the rest — a lot of - a lot of the things they did were n't natural to rabbits — pushing stones into the earth and carrying food underground and Frith knows what . ” "" The Threarah 's lettuce was carried underground , if it comes to that . ”"
+adams1974,rabbit,noun.animal,do,agency,"Do n't you see , they 'd altered what rabbits do naturally because they thought they could do better ?"
+adams1974,cat,noun.animal,say,agency,"“ A cat ? ” said Speedwell , wide - eyed ."
+adams1974,blade,noun.plant,say,agency,"Can you come with us to our holes ? ” "" Captain , ” said Bluebell , "" do you know what the first blade of grass said to the second blade of grass ? ” Hazel looked at him sharply , but Holly replied , “ Well ? "" "" It said , “ Look , there 's a rabbit !"
+adams1974,mouse,noun.animal,do,agency,“ What 's this mouse doing in here ? ” asked Dandelion .
+adams1974,mouse,noun.animal,say,agency,"“ You think safe ? ” “ Go now , "" said the mouse ."
+adams1974,rabbit,noun.animal,try,agency,A weak rabbit who ca n't Lope to get far by fighting sometimes tries to make himself important by other means and prophecy is a favorite .
+adams1974,mouse,noun.animal,save,agency,"But that mouse tonight - we saved his life — ” "" You saved his life , ” said Blackberry ."
+adams1974,mouse,noun.animal,know,agency,""" To start with , he can tell us what he knows about the place "" “ What mice know ."
+adams1974,Pheasant,noun.animal,say,agency,"' “ ' Pheasant , eh ? said one of the foxes ."
+adams1974,fox,noun.animal,say,agency,"“ ' Wounded , eh ? ' said the fox . “ ' No , no , ' said Hufsa ."
+adams1974,fox,noun.animal,say,agency,"' “ ' To make what ? ' said the fox . “ ' To make their tails grow longer , ' said Hufsa sulkily ."
+adams1974,rabbit,noun.animal,eat,agency,“ Rabbits not eat birds .
+adams1974,rabbit,noun.animal,eat,agency,Rabbits eat grass .
+adams1974,bird,noun.animal,consider,both,The bird considered .
+adams1974,rabbit,noun.animal,manage,agency,"Before ni - Frith the rabbits had managed to produce as much as it could eat — for a time , at all events — and were able to sleep through the heat of the day ."
+adams1974,rabbit,noun.animal,see,experience,In the fields of 99 168 ON WATERSHIP DOWN a Sandleford the rabbits had seen men almost every day .
+adams1974,rabbit,noun.animal,survive,both,They had learned a good deal about elil from some source or other and seemed sure that few wild rabbits survived for long .
+adams1974,rat,noun.animal,suppose,agency,"“ Rats getting too clever , I suppose ? ” The cat made no reply ."
+adams1974,rabbit,noun.animal,leave,agency,"The going would be troublesome in the wet , and anyway no self - respecting rabbit could leave without a forage round the sheds ."
+adams1974,rabbit,noun.animal,prove,both,"Persuading them will prove nothing , but three or four dead rabbits will prove you 're a fool , when it 's too late ."
+adams1974,rabbit,noun.animal,leave,agency,"The going would be troublesome in the wet , and anyway no self - respecting rabbit could leave without a forage round the sheds ."
+adams1974,rabbit,noun.animal,prove,both,"Persuading them will prove nothing , but three or four dead rabbits will prove you 're a fool , when it 's too late ."
+adams1974,rabbit,noun.animal,leave,agency,"The going would be troublesome in the wet , and anyway no self - respecting rabbit could leave without a forage round the sheds ."
+adams1974,rabbit,noun.animal,prove,both,"Persuading them will prove nothing , but three or four dead rabbits will prove you 're a fool , when it 's too late ."
+adams1974,rabbit,noun.animal,leave,agency,"The going would be troublesome in the wet , and anyway no self - respecting rabbit could leave without a forage round the sheds ."
+adams1974,rabbit,noun.animal,prove,both,"Persuading them will prove nothing , but three or four dead rabbits will prove you 're a fool , when it 's too late ."
+adams1974,rabbit,noun.animal,leave,agency,"The going would be troublesome in the wet , and anyway no self - respecting rabbit could leave without a forage round the sheds ."
+adams1974,rabbit,noun.animal,prove,both,"Persuading them will prove nothing , but three or four dead rabbits will prove you 're a fool , when it 's too late . ”"
+adams1974,rabbit,noun.animal,know,agency,“ Surely — ” He stopped as it came over him that these rabbits knew neither lane nor farmyard .
+adams1974,cat,noun.animal,leave,agency,"After a good deal of delay , during which the cat left the woodpile and began to move stealthily round toward the side of the shed , Blackberry managed to get them out into the farmyard ."
+adams1974,rabbit,noun.animal,do,agency,"It was a very risky one , but I thought there was a chance that it might work , simply because every rabbit in Efrafa usually does what he 's told without question ."
+adams1974,rabbit,noun.animal,happen,agency,"How many rabbits has that happened to , I wonder ?"
+adams1974,rabbit,noun.animal,tell,experience,"Some rabbits will tell you it 's all easy there , compared with the waking dangers that they understand ."
+adams1974,rabbit,noun.animal,express,agency,"Human beings , on occasions of this kind , are usually full of questions , but the rabbits expressed their delight simply by proving to themselves through their senses that this was really Hazel - rah ."
+adams1974,rabbit,noun.animal,know,agency,"“ That rabbit with the mutilated ears , ” “ Well , but Hazel - rah must know what 's doing . ”"
+adams1974,blade,noun.plant,think,agency,"Not a blade of grass to choose between them , thought Hazel : Pipkin and Fiver looked as fresh as Silver and Bigwig ."
+adams1974,rabbit,noun.animal,try,agency,"As far as he knew , no rabbit had ever tried to do what he had in mind ."
+adams1974,rabbit,noun.animal,know,agency,What way they went I do n't know and no rabbit knows .
+adams1974,dog,noun.animal,do,agency,"' Well , El - ahrairah , ' said the Black Rabbit - and he did not wrinkle his nose up and down when he sniffed , but thrust it forward , as a dog does — my burrow can not be what you are used 66 248 EFRAFA to : but perhaps you have done your best to make yourself comfortable ? “ ' I have , my lord , ' said El - ahrairah ."
+adams1974,rabbit,noun.animal,say,agency,They vanished in the night ; and that is why no rabbit who tells the tales of El - ahrairah can say what kind of creatures they were or what they looked like .
+adams1974,rabbit,noun.animal,fear,experience,It is true that every rabbit fears the fox and will bolt if it smells one .
+adams1974,hawk,noun.animal,say,agency,""" A water hawk ! ” said Fiver ."
+adams1974,rabbit,noun.animal,leave,agency,He would allow no rabbit to leave the warren .
+adams1974,rabbit,noun.animal,compete,agency,"To feel that rabbits were competing to risk their lives at his orders gratified Woundwort , although he believed — and so did his Council and his Owsla — that he was giving the warren peace and security at a price which was modest enough ."
+adams1974,rabbit,noun.animal,choose,both,"He was no fool and it was , he could not help feeling , extremely odd that any right - minded rabbit should choose to walk into Efrafa of his own accord ."
+adams1974,rabbit,noun.animal,know,agency,Every rabbit knows which hole he has to use and I should certainly miss any of mine who did n't go down .
+adams1974,rabbit,noun.animal,say,agency,"“ I come here for the Mark to see me , ” said the rabbit in his low , drained voice ."
+adams1974,rabbit,noun.animal,know,agency,I thought all rabbits knew that . ” “ Do n't be ridiculous .
+adams1974,bush,noun.plant,provide,agency,"He knew that Kehaar could not be everywhere and that the bushes and undergrowth provided enough cover , at a pinch , to dodge him ."
+adams1974,beast,noun.animal,say,agency,"“ A dirty little beast like Hufsa , ” said Bigwig ."
+adams1974,camel,noun.animal,say,agency,"Ah , the gorgeous East ! ' ” ( "" What on earth 's ' camel ? ? ” said Bigwig ."
+adams1974,mouse,noun.animal,recognize,both,"The mouse recognized him and sat up , washing his face with his front paws and chattering effusively ."
+adams1974,mouse,noun.animal,say,agency,""" "" Is a good a for get about , you know ? ” said the mouse in a familiar tone which made Bigwig shake his ears with irritation ."
+adams1974,bird,noun.animal,say,agency,Where did the bird say these new rabbits were ? ” “ ' E say is a come just a now on a morning side .
+adams1974,rabbit,noun.animal,do,agency,We wondered what so many rabbits could be doing there and we were going down to see 370 H A Ž EL - RAH when we suddenly came face to face with Campion .
+adams1974,rabbit,noun.animal,say,agency,"“ You 're General Woundwort , are n't you ? "" said the rabbit ."
+adams1974,rabbit,noun.animal,ask,agency,""" "" And this rabbit , sir , ” asked Campion ."
+adams1974,root,noun.plant,say,agency,"“ Good roots they keep there , ” said Hazel , as they passed them and reached the hedge ."
+adams1974,rabbit,noun.animal,join,agency,"The rabbit , a powerful , heavy veteran by the name of Thunder , joined them , stumbling ."
+adams1974,rabbit,noun.animal,say,agency,“ A dead rabbit ? ” said Woundwort .
+adams1974,fox,noun.animal,say,agency,""" Ah ha , ' said the fox , ‘ tell my fortune , eh ?"
+adams1974,rabbit,noun.animal,say,agency,"Fat rabbits running through the grass , yes , yes ? ” “ Very well . "" said Woundwort ."
+adams1974,rabbit,noun.animal,say,agency,"Then , very quietly and with no trace of fear , the strange rabbit said , "" I am sorry for you with all my heart ."
+adams1974,rabbit,noun.animal,mean,agency,"' E always says one rabbit means ' undred an ' one . "" "" Well , I 'll tell you what , ” said Doctor Adams , taking his thin fob watch on the fingers of one hand and looking down at it as he held it at arm 's length — for he was long - sighted—“I've got to go a few miles up the road to see an old lady at Cole Henley ."
+adams1974,rabbit,noun.animal,suffer,experience,"Rabbits , like most wild animals , suffer hardship ."
+adams1974,rabbit,noun.animal,do,agency,“ You did everything for him that rabbits could do and a great deal more .
+adams1974,rabbit,noun.animal,say,agency,"Well , do I ? ” “ Please , sir , I 've never seen a cat , ” said the young rabbit ."
+adams1974,worm,noun.animal,say,agency,"D’you remember how he cursed at us and tried to peck us ? ” "" And the worms we carried ? ” said Bluebell ."
+adams1974,rabbit,noun.animal,tell,experience,"And mother rabbits would tell their kittens that if they did not do as they were told , the General would get them — the General who was first cousin to the Black Rabbit himself ."
+adams1974,rabbit,noun.animal,tell,experience,"And mother rabbits would tell their kittens that if they did not do as they were told , the General would get them — the General who was first cousin to the Black Rabbit himself ."
+ngugi1967,dog,noun.animal,develop,agency,Between the houseboy and the dog had developed a friendship which was very touching to see .
+ngugi1967,dog-,noun.animal,worry,agency,"' About that dog- ' ' Sir ? ' ' Do n't worry about it , eh ?"
+tolkien1955,beast,noun.animal,know,agency,"If any Hobbit stooped for a stone , it was well to get quickly under cover , as all trespassing beasts knew very well ."
+tolkien1955,root,noun.plant,do,agency,These tree- roots would do them good . '
+tolkien1955,beast,noun.animal,know,agency,I have never got over the fright — though I daresay the beasts knew their business and would not really have touched me . '
+tolkien1955,animal,noun.animal,ask,agency,"' Where does that other old animal , that Fatty Lumpkin , come from ? ' asked Frodo ."
+tolkien1955,pony,noun.animal,escape,agency,"Merry 's ponies had escaped altogether , and eventually ( having a good deal of sense ) they made their way to the Downs in search of Fatty Lumpkin ."
+tolkien1955,horse,noun.animal,see,experience,"For the black horses can see , and the Riders can use men and other creatures as spies , as we found at Bree ."
+tolkien1955,bird,noun.animal,tell,experience,"' The birds and beasts do not tell tales of that sort . ' “ The heirs of Elendil do not forget all things past , ' said Strider ; ' and many more things than I can tell are remembered in Rivendell ."
+tolkien1955,pony,noun.animal,develop,agency,"Bill Ferny 's poor old pony was developing an unexpected talent for picking out a path , and for sparing its rider as many jolts as possible ."
+tolkien1955,horse,noun.animal,leave,agency,He felt the quick heave and surge as the horse left the river and struggled up the stony path .
+tolkien1955,spider,noun.animal,leave,agency,Yet even the most subtle spiders may leave a weak thread .
+tolkien1955,tree,noun.plant,remember,both,"‘ But the Elves of this land were of a race strange to us of the silvan folk , and the trees and the grass do not now remember them ."
+tolkien1955,bird,noun.animal,say,agency,"“ The birds again ! ' said Aragorn , pointing down ."
+tolkien1955,duck,noun.animal,save,agency,A quick duck had saved him ; and he had felled his orc : a sturdy thrust with his Barrow - blade .
+tolkien1955,tree,noun.plant,offer,agency,"He was thankful that they had not been caught on the ground ; but he felt that the trees offered little protection , except concealment ."
+tolkien1955,tree,noun.plant,fail,both,"As you go down the water , ' he said , ' you will find that the trees will fail , and you will come to a barren country ."
+tolkien1955,Swans,noun.animal,say,agency,‘ Swans ! ' said Sam . ' And mighty big ones too !
+carpentier1956,dog,noun.animal,lose,both,"When their dog lost an eye in an encounter with a wild pig , they named him Poly- phemus in memory of the Cyclops whose lamentable fate they had read a hundred times around their camp - fire ."
+crace1986,animal,noun.animal,do,agency,"He closed the gap between him and the horse , but it tired him and he was glad to tuck in behind ' Isra and let the animal do the work for the fifty meters before the final bend at the single tree towards the store ."
+crace1986,tail,noun.animal,enjoy,experience,"Are the odors of chemistry still as eloquent here as among bears and antelope , while we — our estrus lost as 69 CONTINENT surely as our tails — enjoy our tamed and liberated embraces , triggered by our hearts and not our tyrant vesicles , free and equal , donors and recipients of physical affection ? "" What of their men ?"
+crace1986,acacia,noun.plant,lose,both,"The acacia which my uncles planted in their village at my birth ( its name in Siddilic signifies "" patience "" ) has almost lost its leaves ."
+crace1986,gecko,noun.animal,join,agency,"My house gecko joins me , lying across my bare chest like a damp medallion ."
+crace1986,moth,noun.animal,tell,experience,The moth is telling her fortune .
+crace1986,animal,noun.animal,eat,agency,"What the animals did not eat became topsoil , loam ."
+crace1986,root,noun.plant,eat,agency,"He and the woman delved in the softer earth for roots to eat and found silver , a plaything for the boys ."
+brunner1969,lion,noun.animal,learn,agency,"Lions learn this as cubs and then ignore the practice , which is why baboons can cave them in ."
+brunner1969,pup,noun.animal,do,agency,And all the pup did when we got it home was sit around snivelling and pee on the floor every half - hour .
+brunner1969,bird,noun.animal,say,agency,""" "" That 's a good bargain , "" said the bird ."
+brunner1969,bird,noun.animal,tell,experience,""" The bird told him that at a village near the sea , a day 's walk distant , a huge monster had come out of the water and caught two children and eaten them , and everyone had run away to hide in the bush ."
+brunner1969,bird,noun.animal,say,agency,""" The bird said , "" If you are not afraid of the monster I will 8 Ibid ."
+king1993,tree,noun.plant,see,experience,So that tree does n't see her .
+king1993,Tree,noun.plant,say,agency,"You 're getting closer , says the Cedar Tree ."
+king1993,apple,noun.plant,say,agency,"Your apples ! says First Woman , and she gives a nice red apple to Ahdamn . Yes , says that GOD , and that one waves his hands around ."
+king1993,animal,noun.animal,leave,agency,All the animals leave the garden .
+king1993,duck,noun.animal,say,agency,""" "" You following this , Jimmy ? "" "" Yes , ma'am . "" "" So this woman says that they could create some dry land , and the ducks , who are tired of swimming laps , say , ' Sure , let 's do that . '"
+king1993,Kangaroos,noun.animal,say,agency,"Five dollars on Changing Woman , says those Kangaroos ."
+king1993,cat,noun.animal,try,agency,"All the way through town , their voices had twisted and turned , sounding for all the world like cats trying to get out of a tin can ."
+king1993,Trees,noun.plant,say,agency,"Wake up , wake up , says those Trees ."
+king1993,horse,noun.animal,say,agency,""" "" And the horses , "" said Ishmael ."
+king1993,tree,noun.plant,say,agency,Eeek ! says that Tree .
+king1993,bush,noun.plant,say,agency,""" A burning bush ! "" says Coyote ."
+clark1949,cat,noun.animal,do,agency,"He knows what a cat will do ; he knows what a deer will do , better than they know it them- selves ."
+clark1949,deer,noun.animal,do,agency,"He knows what a cat will do ; he knows what a deer will do , better than they know it them- selves ."
+clark1949,cat,noun.animal,think,agency,"65 No cat by now , he thought , if there 's any way out of the trap ."
+clark1949,cat,noun.animal,do,agency,"Going in from the top , and for a moment felt what was as bad as fear , that Arthur , for all his dreamy hanging back , had made the better guess about what the cat would do ."
+clark1949,bird,noun.animal,fear,experience,"There passed through his mind , quick and incomplete , like the bird fears again , many tales he 'd heard of the cunning and treachery of mountain lions ."
+clark1949,horse,noun.animal,eat,agency,"Joe Sam was just standing there watching the horses eat , for all anybody could see ."
+clark1949,jay,noun.animal,leave,agency,"The jays left a clear circle of snow around him , but they were angry because they had to do 169 it , and squabbled loudly with each other ."
+clark1949,bush,noun.plant,resist,experience,"He began to strike harder , and to flare with rage when a bush resisted him too long ."
+clark1949,coyote,noun.animal,see,experience,""" Burn the sheds , burn the house . Think what a light that 'd make for the coyotes to see ."
+clark1949,Cats,noun.animal,see,experience,"He 'd hardly been thinking at all for a long time now , only watching , when all at once , like a warning from outside , as sharply as if somebody had called to him , he thought , Cats can see in the dark ."
+clark1949,lion,noun.animal,see,experience,"Mountain lions can see in the dark , of course , he thought ."
+clark1949,cat,noun.animal,see,experience,"But the cat could see him as well as ever , if it was in the right place ."
+clark1949,branch,noun.plant,support,agency,"The limber branches would n't support 271 him very well , and the ones above kept pressing him down , so that he had to squirm among them at each whorl to dis- cover an opening through which he could get up to the next level ."
+clark1949,tree,noun.plant,support,agency,He wondered if the tree would support him far enough up its tapering trunk to get out of the snow .
+clark1949,cat,noun.animal,see,experience,And cats could see in the dark .
+clark1949,cat,noun.animal,know,agency,"If the cat did n't know where he was now , it certainly would after that ."
+clark1949,cat,noun.animal,do,agency,"He had to know exactly what the cat was doing outside , and the sniffing was all he had to guess by ."
+clark1949,cat,noun.animal,know,agency,"Even if he managed to hold himself absolutely quiet , not a single muscle moving , not the faintest whimper escaping him — and that whim- pering could begin only too easily even then the cat would know ."
+clark1949,cat,noun.animal,see,experience,"He was terribly alarmed for an instant , because he thought the wall had vanished , and the cat could see him too ."
+clark1949,cat,noun.animal,try,agency,"Finally it occurred to him that there was practically no chance of an attack from below anyway , because the snow was too deep under the ledges and the slope so steep he did n't think the cat would try it ."
+clark1949,cat,noun.animal,see,experience,The most important single fact in the world was again the fact that cats can see in the dark .
+clark1949,cat,noun.animal,see,experience,He resented bitterly the fact that cats could see in the dark .
+clark1949,panther,noun.animal,choose,both,The chase seemed to him to be going on forever and to be prolonged only because the panther did n't choose to end it .
+clark1949,cat,noun.animal,think,agency,"The cat was thinking about him with the mind of Joe Sam , only he 'd been slow to recognize the look because it was in two eyes instead of just one ."
+clark1949,horse,noun.animal,warn,agency,"The horses warned them before Harold had any other sign , by beginning to snort and try to turn against the reins , first to one side and then to the other ."
+clark1949,critter,noun.animal,kill,agency,"The critter 's killed seven in all , now , and never been seen ."
+clark1949,cat,noun.animal,leave,agency,"Then he went on in , seeing but not notic- ing the deep trail the cat had left ."
+clark1949,cat,noun.animal,do,agency,"Joe Sam came beside him , and because he did n't want to hesitate in the old man 's presence , he gathered himself toward what he had to do , and then it was his own mind thinking , No cat ever did that to him ."
+waters1966,animal,noun.animal,leave,agency,Wild animals left strange tracks in the yard .
+waters1966,seal,noun.animal,say,agency,""" The seals and sea- lions at the zoo , "" said Turner quietly ."
+melville1847,branch,noun.plant,afford,experience,"The branches of this curious tree afforded low perches , upon which the natives frequently squatted , after the fashion of their race , and smoked and gossiped by the hour ."
+lopez1981,bird,noun.animal,do,agency,"The man asked , what other birds do this ?"
+lopez1981,buffalo,noun.animal,leave,agency,As the snow got deeper the buffalo left the valley and began 33 WINTER COUNT to climb into the mountains .
+lopez1981,buffalo,noun.animal,try,agency,The Arapaho said this was the first time the buffalo tried to show them how to climb out through the sky .
+welch1974,cock,noun.animal,do,agency,It is difficult to tell what cocks will do when they grow old .
+welch1974,bobcat,noun.animal,kill,agency,"The bobcat killed the big turkey , ” she said , then added quietly , as though Lame Bull might hear over the grinding of steel , as though Bird might hear over the sound of the bawling calf , as though the fish that were never in the river might hear : “ I killed Amos . ”"
+welch1974,fish,noun.animal,see,experience,It is too muddy and the fish ca n't see your bait . ” ” “ Not likely .
+welch1974,deer,noun.animal,change,agency,Even the deer ca n't change anything .
+welch1974,game,noun.animal,refuse,both,We tried to hunt but the game refused to move .
+welch1974,cow,noun.animal,continue,both,"Bird slipped once and almost went down , doing a strange dance , rolling quickly from side to side , but he regained his balance and continued to pull and the cow continued to come ."
+silko1977,burro,noun.animal,leave,agency,"It got to the left side of the road that way and walked along steadily , only long enough to fool Harley , then the burro left the road entirely and completed the wide turn it had been engineering for almost half an hour ."
+silko1977,animal,noun.animal,do,agency,Animals did not re- sist .
+silko1977,deer,noun.animal,leave,agency,"In the old way of warfare , you could n't kill another human being in battle without knowing it , without seeing the result , because even a wounded deer that got up and ran again left great clots of lung blood or spilled guts on the ground ."
+silko1977,antelope,noun.animal,do,agency,"These cattle were descendants of gen- erations of desert cattle , born in dry sand and scrubby mesquite , where they hunted water the way desert antelope did ."
+silko1977,cow,noun.animal,see,experience,"They bolted down the ramp nimbly , and as each cow saw the open gate ahead , she lowered her head and snorted , racing out the opening ."
+silko1977,tree,noun.plant,do,agency,"Robert left earlier , with the excuse that he had to chop wood or see how the little apple trees behind the house were doing ."
+silko1977,animal,noun.animal,say,agency,"He never lost the feeling he had in his chest when she spoke those words , as she did each time she told them sto- ries ; and he still felt it was true , despite all they had taught him in school — that long long ago things had been different , and hu man beings could understand what the animals said , and once the Gambler had trapped the storm clouds on his mountaintop ."
+silko1977,horse,noun.animal,do,agency,"Her left hind foot was flexed and resting on the toe , the way horses did when they had to stand in one place for a long time ."
+silko1977,fly,noun.animal,do,agency,Since that time the people have been grateful for what the fly did for us .
+silko1977,tree,noun.plant,lose,both,The cottonwood trees had not lost their familiar feeling with him .
+silko1977,cattle,noun.animal,kill,agency,Did the cattle kill him - did I let the cattle kill him ?
+silko1977,cattle,noun.animal,kill,agency,Did the cattle kill him - did I let the cattle kill him ?
+silko1977,horse,noun.animal,try,agency,He got off the mare and loosened the cinch ; the horse tried to shake off sweat and 177 fatigue .
+silko1977,animal,noun.animal,see,experience,"He could n't see the barrier to this trap , because it had been carefully built around a curve in the bank where the animals could not see it until after they had gone through the opening ."
+silko1977,cow,noun.animal,see,experience,"And what about Romero 's yellow bull , he could hear Josiah say , winking when he said that ; but the speckled cows had not seen the yellow bull that way , at least not in the beginning ."
+silko1977,cattle,noun.animal,do,agency,"He stood feeling the sun on his face the way the cattle did , until she turned and faced him ."
+silko1977,horse,noun.animal,do,agency,"He worked his way down the side of the ridge , winding back and forth across the slope , the way horses did to keep their footing ."
+silko1977,mule,noun.animal,eat,agency,Somewhere around there the first gray mule had eaten a poison weed and died ; the bones would be scattered in the tall grass around the windmill .
+stewart1976,rat,noun.animal,prove,both,"Because of their crowding , and also probably because of the softened condition of the individ- uals , the rats proved universally susceptible , and soon were dying by thousands ."
+stewart1976,dog,noun.animal,eat,agency,( Then he had a sudden feeling of tightness in the throat when he thought of things the dog might be eating . )
+stewart1976,dog,noun.animal,tell,experience,"He made no effort to call it closer or to follow it ; after all , the dog could not tell him ."
+stewart1976,dog,noun.animal,say,agency,"Obviously , the dog was saying , “ You have broken my heart ! ”"
+stewart1976,sap,noun.plant,fail,both,"Deep within the camellias , the sap failed ; they would bear no buds next spring ."
+stewart1976,tle,noun.animal,continue,both,"In the end , however , he had no doubt that the cattle and the wolves would strike off some unconscious balance and that the cat- tle , bereft of man , would continue to thrive ."
+stewart1976,crow,noun.animal,leave,agency,Just beyond Flagstaff he came around a bend of the road and some distance ahead saw two crows leave something in the road and flap heavily away .
+stewart1976,dog,noun.animal,continue,both,"The shepherd was gone , but by long habit the dogs were continuing their task , keeping the sheep together , maintaining them in the good pasture along the water of the stream , doubtless fighting off the marauders that came sniffing in the night ."
+stewart1976,tree,noun.plant,change,agency,""" Perhaps , "" he thought , “ that fallen tree has changed the whole future course of human history ."
+stewart1976,dog,noun.animal,manage,agency,"Evidently on rab- bits or calves or on whatever the pack might run down or find as carrion , the dogs were managing to get along ."
+stewart1976,dog,noun.animal,do,agency,"Actually the dogs had done him no harm , and in- deed had not really even threatened him ."
+stewart1976,ant,noun.animal,do,agency,"The area which the rats were occupy- ing was roughly the city , although they spread outward from the built - up area , covering somewhat larger an area than the ants had done ."
+stewart1976,dog,noun.animal,kill,agency,"Probably the dogs had killed the cats as much as they had the rats , and so had eliminated the chief control ."
+stewart1976,rat,noun.animal,offer,agency,"Ish kept Princess in the house mostly , although the rats had offered her no violence either ."
+stewart1976,dog,noun.animal,kill,agency,"Though the dog might kill a dozen or fifty , in the end the mad , hunger - frenzied rodents must have gnawed through the skin and tendons until the dog collapsed ."
+stewart1976,rat,noun.animal,do,agency,"Also , he knew , although he did not investigate , that the rats must have done a great deal toward removing the bodies of the human beings who had died in the original disaster ."
+stewart1976,ape,noun.animal,think,agency,"Darwin- was n't that his name?—said that we all came from apes or monkeys or something , and I suppose apes and monkeys and things like that never thought much about the future ."
+stewart1976,horse,noun.animal,do,agency,"“ Or dog - teams either ! "" "" Horses would do better , if we had some ! ”"
+stewart1976,rodent,noun.animal,do,agency,"But the rodents could do nothing with glass or tin , and so the bot- tles and cans were undisturbed ."
+stewart1976,dog,noun.animal,join,agency,"Then the team - dogs joined in the chorus , as they now came up the hill , and the boys joined him ."
+stewart1976,grass,noun.plant,lose,both,"The grass on the hills lost its fresh greenness , and then seeded and turned brown ."
+stewart1976,bird,noun.animal,eat,agency,Birds eat things too .
+stewart1976,leopard,noun.animal,change,agency,"“ Yes , ” he thought , again shaping words , "" a leopard ca n't change its spots , and I 'll always be a worrier , even though I 've lived with Em for twenty - two years ."
+stewart1976,squirrel,noun.animal,see,experience,"Also six weeks after the winter solstice , they talked about Ground - squirrel Day and whether the squirrel could see THE YEAR 22 275 his shadow , for there were no ground - hogs in this area and they had substituted the ground - squirrel instead ."
+stewart1976,lion,noun.animal,see,experience,"Perhaps it was because there were no more rifles being used , or perhaps it was because there were so few men that a lion rarely saw one and could not realize how dangerous these not very dangerous - looking crea- tures could be ."
+wongar1987,plant,noun.plant,help,agency,"I had perpetual diarrhea and wished the plants could help me , though none was in sight ."
+wongar1987,plant,noun.plant,cure,agency,"I went to sleep thinking that if I were in the bush the plants would indeed cure me , for I 1C xi had learned before that , in the hands of a good tribal healer , man is seldom left to suffer ."
+wongar1987,ant,noun.animal,learn,agency,"The place was a ghostly dim hall , and the acrid smell of stale tobacco lingered in the stagnant air , but the ant had learned not to be choosy about the place in which he must live ."
+wongar1987,ant,noun.animal,achieve,agency,"It was not difficult to join the paper fragments to make a cone - shaped shelter , but much silken thread was needed to bind the pieces and to reinforce the structure , and there is a limit to what a lone worker - ant can achieve , unaided ."
+wongar1987,ant,noun.animal,suspect,agency,"In a wastepaper basket on the floor , Gabo Djara found the remains of a рер- pery sandwich , but the crumbs exuded such a peculiar odor that the ant suspected the whites of having set a trap to poi- son him ."
+wongar1987,ant,noun.animal,see,experience,A picture of the man the ant had seen earlier on the cover of the book hung on the wall with large gilded lettering : P. RECLUSE- HE MADE THE MIRACLE POSSIBLE .
+wongar1987,ant,noun.animal,see,experience,He had a picture of that serene white woman whom the ant had seen lately in the book drawn on the surface of the rock with a piece of charcoal .
+wongar1987,ant,noun.animal,see,experience,"The ant had seen them often clapping bilma sticks against boomerangs to plead to him and other spirits ' ancestors that no man should be left to suffer unduly , even one whose skin looked different ."
+wongar1987,moth,noun.animal,do,agency,"Chubby , looking closely at her mink , held that his corporation could not accept responsibility for what the moth could do to someone 's wardrobe , but suggested if the matter was handled discreetly , there could be some amicable settlement ."
+wongar1987,tree,noun.plant,know,agency,"Scattered boulders lie about but there are bushes perching on them , for trees know how to get on with the rocks ."
+wongar1987,tree,noun.plant,learn,agency,"Trees grow often from the side of rocks and hug their roots around boulders to hold on ; it matters little if the rock is uranium , and there is enough of that stuff around to mess a whole world - trees have long learned to handle that ."
+wongar1987,plant,noun.plant,see,experience,"17 I , too , shall be branching out from the side of a rock , though a friend of mine thinks that no soul has ever died of radioactivity out here : "" Plants have seen to it . """
+wongar1987,creature,noun.animal,resist,experience,"Gabo Djara snatched only a mouthful before setting out to collect more food while the opportunity presented itself , and on his second try he passed the Queen 's glass from which rose a strong , sweet , tempting smell that no crawling creature could resist ."
+wongar1987,tree,noun.plant,heal,agency,Trees can heal even when science fails and you are cast out to die beneath a rock shelter like a mangy dog .
+wongar1987,plant,noun.plant,cure,agency,"He , too , believes the plants can cure where science has failed ."
+wongar1987,tree,noun.plant,survive,both,"In Namanama the trees have survived many storms , emerged from wild floods , and survived the longest drought the land has known - the food never tasted better ."
+wongar1987,beast,noun.animal,eat,agency,"As it made its way inland , the beast ate a string of low sandhills and wallowed about turning the ground into swamps - the kind of place they like ."
+wongar1987,ant,noun.animal,see,experience,"The ant had seen some of the traps and had heard of many others , but doubted that Specs and his man had mastered a device to track the spirit ."
+wongar1987,ant,noun.animal,discover,both,"The ant discovered a peep- hole cleverly disguised as a crack in the paint at the top of the cabinet and , by peeping through , he saw two computers ; the machines were working busily processing notes on the files ."
+wongar1987,ant,noun.animal,see,experience,", the ant suddenly saw , on the back of the screen , an X ray of himself clawing desperately at a chip ; even his brain was showing as it slowly functioned ."
+wongar1987,ant,noun.animal,know,agency,Gabo Djara wondered if the fire been lit deliberately or was an accident - it mattered little ; the ant knew that if he ran from danger some trap even more terrifying lay set for him ... somewhere .
+wongar1987,reptile,noun.animal,leave,agency,Jogu assumes that the intruder must have killed a snake and carried it tacked under his waist belt — the hanging reptile had left a trail over sandy ground .
+wongar1987,ant,noun.animal,see,experience,"Confined as he was beneath a bell of fine insect - proof mesh originally designed to serve as a food cover , the ant could see and hear but could not escape ... except . . ."
+wongar1987,ant,noun.animal,try,agency,"Reminding himself that he was on trial , the ant tried to move a bit closer , if not to crawl into the judge 's wig , then at least to be close enough to hear some of the words whispering in his ear , when one of his feelers began to itch ."
+wongar1987,ant,noun.animal,remember,both,"As he crawled , the ant remembered that Marngit was told once by Sister Alba that according to the whites , the world had risen from darkness and it would plummet into it again if the hu- mans did not remain grateful ."
+wongar1987,ant,noun.animal,assume,both,The ant assumed that the mis- sionary woman would still be about and wondered where she would go after the bush had been plundered .
+wongar1987,ant,noun.animal,tell,experience,"I have to look for the Sister , the ant told himself ."
+wongar1987,ant,noun.animal,tell,experience,"It is near Jangana Cave , the ant told himself ."
+wongar1987,dingo,noun.animal,suffer,experience,"According to Sir Rock - Pile , the dingo suffered from a little - known disease , almost as fatal as rabies , and as it had been in contact with tribal people it had passed the sick- ness on to humans ."
+wongar1987,ant,noun.animal,understand,both,"Gabo Djara heard Sir Rock - Pile inform the crowd that the mountain would be producing some of the finest "" yellow cake , "" which the ant understood to be damper baked from ground stone ."
+wongar1987,ant,noun.animal,remember,both,In country of gabo djara man hugs boulders -men harvest gum leaves ancestral blood makes soul grow again By the time the ant remembered the traditional chant the bids had doubled .
+wongar1987,ant,noun.animal,do,agency,"It was expected that the white man would recover from the curse and in due course would take his place among others having two more trees in the bush , or two more ants , 70 for that matter , would do no harm to Namanama ."
+wongar1987,ant,noun.animal,tell,experience,What was ex- pected of him the ant could not tell .
+wongar1987,ant,noun.animal,imagine,experience,"The table , a daunting objective , but promising the best vantage point over not only the room , but probably the whole world , was not as satisfac- tory as the ant had imagined ."
+wongar1987,ant,noun.animal,see,experience,"Even though he was clinging upside down to the paper , it was still possible for the ant to see a slice of the picture ; behind the billabong the large boulder guarding the cave 's entrance had been blasted away ."
+wongar1987,ant,noun.animal,plan,agency,"Though he could not yet tell if there was anything edible around , if he should find even a speck of fungus or a fragment of lichen , the ant planned to try to tunnel with it , under the bell ."
+wongar1987,plant,noun.plant,help,agency,"She mentioned , however , that as the balanda wanted to turn into rock , plants could seldom help ."
+wongar1987,ant,noun.animal,assume,both,"Still in his hide- out , the ant assumed that the balanda talked of the white man 's God only , perhaps the same God as Sister Alba had talked about when she first arrived at Namanama ."
+wongar1987,ant,noun.animal,tell,experience,"By climbing on something — the ant could not tell what , but it was slightly warm - he could see through a tiny crack in the box , the screen and its field of dark sky ."
+wongar1987,ant,noun.animal,remember,both,"Gabo Djara was repelled both by the smell of the stale air and the feeling that he was shut in a box ; it was too dark to see the walls , but the strange odor of sweating concrete and damp earth suggested they were not far apart , and though there must have been a door through which he had been thrown , the ant could remember nothing of it ."
+wongar1987,ant,noun.animal,realize,agency,Only after the dingo appeared on the screen again did the ant realize that in his mouth he carried away the headdress of Sheik $ -i .
+wongar1987,ant,noun.animal,tell,experience,"She gave him a good pat and told him to fetch something that she threw a stone or a piece of wood , the ant could not tell ."
+wongar1987,ant,noun.animal,remember,both,The ant remembered the sound from his earlier visit and drew back his feelers to shield them from the irritating noise .
+wongar1987,leave,noun.plant,lose,both,""" "" "" Looking through the window , Gabo Djara noticed that the leaves on the rose bush had suddenly lost their green color and were covered with dark spots , and some were falling off ."
+wongar1987,ant,noun.animal,remember,both,"The ant remembered the Sister telling Marngit once that if the whites freed dal from the rocks and used the power unwisely , there would be no green plants seen ever again ."
+wongar1987,ant,noun.animal,see,experience,""" A shadow cast on the floor appeared first , and a moment later , the ant saw dodoro , pigeon , under the table shyly picking crumbs before fluttering quickly away with her prize ."
+wongar1987,ant,noun.animal,try,agency,"Which girl had the pigeon for her totem , the one who married Re- cluse or the other who tried to heal Yudu from the Rot ? — the ant tried to remember ."
+wongar1987,ant,noun.animal,tell,experience,"The pigeon held something in its beak , but as his view was blocked by the man 's shoulder , the ant could not tell what this might be unless he found a better vantage point ."
+wongar1987,plant,noun.plant,do,agency,"One turns into a boulder and waits to be reborn , just as plants do from a seed ; the other part returns to the Land of the Dead to join the tribal ancestors , and thus the human seed will never be lost ."
+wongar1987,dingo,noun.animal,try,agency,"Next to him sat Waran , the dingo tried to chant , too , but made only some throbbing noise and , not happy with the sound , turned to howling .."
+wongar1987,ant,noun.animal,see,experience,"However , the ant could not see much of the place now - the billabong , long dry , had a crusty surface of hardened mud ."
+wongar1987,plant,noun.plant,cure,agency,"Marngit told me that I , too , am to be taken into the Green Ant clan , and now that the plants are curing me I should make the bush my home ."
+wongar1987,tree,noun.plant,do,agency,"My wife held that if a man dreams about the tribal ancestor , he is not to talk to others and has to remain silent just as a tree would do ."
+wongar1987,tree,noun.plant,tell,experience,"Man could easily be lost in the bush , in mangroves especially , if the trees do not tell him the way out ."
+wongar1987,bush,noun.plant,cure,agency,Later that night I thought that Djarudu must be aware that her husband had no faith in the plants and that he may never come to think that the bush might cure him of the Rot .
+wongar1987,ant,noun.animal,realize,agency,"The good nagigid could creep in without shadow or sound , carrying both of his spears , though the ant realized that spears alone might not be able to fetch him out ."
+wongar1987,ant,noun.animal,try,agency,"The ant tried to hold on , but presently he , too , tumbled ."
+wongar1987,monster,noun.animal,eat,agency,The ant reminded himself that monsters had eaten the tribal land be- fore but none had filled his belly with loot and got away with it .
+wongar1987,bark,noun.plant,kill,agency,"She believed that bark , leaves , and the fruit of lharang which our women used to prevent them from becoming preg- nant killed unborn children and that is a sin ."
+wongar1987,fruit,noun.plant,kill,agency,"She believed that bark , leaves , and the fruit of lharang which our women used to prevent them from becoming preg- nant killed unborn children and that is a sin ."
+wongar1987,bush,noun.plant,exist,both,"When she complained to Marngit about the tribal woman using lharang , the healer explained that the bush existed long before the mountains ."
+wongar1987,ant,noun.animal,realize,agency,"The ant realized that whatever horror this incident might bring , it could hardly be more painful than those previously encountered , so he stayed ."
+wongar1987,tree,noun.plant,see,experience,""" No tribes have ever fought one an- other - the tree of peace has seen to that . """
+wongar1987,ant,noun.animal,know,agency,"If he should tumble to the ground , the ant knew he would perish under the heels of so many boots ."
+wongar1987,ant,noun.animal,tell,experience,"If balanda had thoughts of making Jingana billabong , they had gone the wrong way about it , the ant told himself ."
+wongar1987,ant,noun.animal,try,agency,"Dumped on a lonely road and struggling to catch his breath , the ant tried to stretch out his feelers but both felt numb ."
+wongar1987,ant,noun.animal,fear,experience,The ant feared that he might have drifted into some land where plants had long forgotten how to grow .
+wongar1987,plant,noun.plant,forget,agency,The ant feared that he might have drifted into some land where plants had long forgotten how to grow .
+wongar1987,ant,noun.animal,remember,both,"Life could hardly become worse ; the ant could not remember his last meal , and his long tumble through the storm had shaken any remaining fragments from his crop ."
+wongar1987,ant,noun.animal,fear,experience,"The warrior who sounded stern but not so harsh as the ant had feared , appeared to be neither white nor black ."
+wongar1987,ant,noun.animal,see,experience,The 167 ant still saw Sir Rock - Pile sitting on the mushroom cloud that he imagined was an immense willy - willy risen from the dust- shrouded land .
+wongar1987,ant,noun.animal,realize,agency,"There was not to be a fire , however , for the ant soon realized that the stump was not wood but a dingo ."
+wongar1987,animal,noun.animal,know,agency,Genghis Khan hoped that an animal coming from the wild would know how to track well ...
+wongar1987,ant,noun.animal,see,experience,The ant saw Sir Rock - Pile again 169 sitting on the willy - willy cloud ; next to him sat a man dressed in military fatigues .
+wongar1987,ant,noun.animal,see,experience,"Look- ing toward the horizon , the ant again saw two white men on top of the willy - willy , though they appeared closer now , and the general could be heard telling Sir Rock - Pile that stars are made of boulders ."
+wongar1987,ant,noun.animal,realize,agency,The ant realized that the whole scene was mirrored on the wall from some unknown distance and as it drifted off it took away both of his friends .
+wongar1987,ant,noun.animal,try,agency,"The ant tried to free himself but , losing hope , he soon swung back to reach shelter in a depression between the heel and the sole ."
+wongar1987,ant,noun.animal,enjoy,experience,"Though out of reach of the food , the ant enjoyed a good view from the egg cup and the air carried such a strong scent of fried bacon that it was nearly a meal in itself ."
+wongar1987,bird,noun.animal,know,agency,"A tempting crumb , lightly tinged with the oxide color of yellow cake , smelled of Nama- nama rocks now pounded into dust , and birds know better than humans - they do not eat boulders - so there was no sense in dragging that to the pigeon . 192 Diridiri still lingered in the Good Lady 's mind ."
+wongar1987,ant,noun.animal,tell,experience,"The trees have a much longer memory than humans ; they will never forget how to grow , the ant told himself as he tried once more to hear Dodoro and Marngit calling for rain ."
+wongar1987,ant,noun.animal,see,experience,Above them loomed an enlarged picture of a bearded man which the ant had seen before on the packs of gelignite when the whites had first arrived at Namanama .
+wongar1987,ant,noun.animal,learn,agency,"The ant had learned that the bearded man 's name was Nobel and , as he mentioned him frequently , it sounded as though Specs was pleading to be accepted as a new laureate ."
+wongar1987,ant,noun.animal,experience,experience,"The ant had never before experienced anything so soft , and immediately wary , he tried to force one of his feelers into action in case the pleasure concealed a trap ."
+wongar1987,ant,noun.animal,tell,experience,"Why the balanda had tried to pass him off as his father , the ant could not tell ."
+wongar1987,ant,noun.animal,know,agency,"Gabo Djara 's crop had held no food for many days and the shrinking green body sagged , and though he was embarrassed to present himself in such a hum- ble state , the ant knew that to appear in better condition would be dishonest ."
+wongar1987,ant,noun.animal,try,agency,"In the bottom of the flask lay a cluster of stiff bodies and , clinging to the corpses , the ant tried to crawl underneath , wondering as he did so if Marngit might be there , or perhaps in one of the other bottles ?"
+wongar1987,ant,noun.animal,try,agency,The ant tried to remember .
+wongar1987,ant,noun.animal,see,experience,"The gallery op- 228 posite was filled with faces that the ant had seen once before , and these , too , were quite still ."
+wongar1987,ant,noun.animal,tell,experience,"The Queen , her face partly hidden behind her veil , looked exhausted , though the ant could not tell if this was from sobbing or from the strain of the march ."
+wongar1987,ant,noun.animal,tell,experience,"There it is — the burial place , the ant told himself ."
+wongar1987,ant,noun.animal,refuse,both,"Now , however , before the ant could refuse , the loose uniform was put on , and he was pushed inside the chamber which at first seemed to be a baking oven ."
+wongar1987,dingo,noun.animal,cause,agency,"Yudu was assured that the plant was safe and sound and that no dingo , whether a phantom or real , could cause any harm ."
+bruchac1993,animal,noun.animal,exist,both,"Great predatory animals like the cave bear , the sabre - toothed lion , the dire wolf , and even the elephant- like woolly mammoth existed in North America until shortly after that last glaciation ."
+bruchac1993,deer,noun.animal,see,experience,"Though he could not look into both of them , for the deer is like the rabbit seeing toward the sides , not to the front like such hunters as men and wolves , it seemed as if all the deer could see was him ."
+bruchac1993,hawk,noun.animal,eat,agency,A hawk would not eat the head .
+bruchac1993,fox,noun.animal,do,agency,A grey fox had done that after chasing away the hawk .
+bruchac1993,leave,noun.plant,change,agency,The leaves are changing colors .
+bruchac1993,animal,noun.animal,accept,both,"He had made it of springy ironwood , and he had carved the counterweight stone into a 31 DAWN LAND beautiful shape so that the hunted animal would accept its death offering ."
+bruchac1993,dog,noun.animal,do,agency,"With a little whine , the big dog did so , rolling over onto its back and showing its throat , its front paws held up to its chest like a puppy ."
+bruchac1993,dog,noun.animal,marry,agency,"Long ago , dogs and people even married each other ."
+bruchac1993,bird,noun.animal,continue,both,"A bird fluttered in his stomach , but he continued to play , trying to make his music as sweet as ripe berries ."
+bruchac1993,tree,noun.plant,say,agency,"Take me , the tree said ."
+bruchac1993,bear,noun.animal,continue,both,"He quickly climbed higher , as the great bear continued to strike at the tree , clawing to reach him ."
+bruchac1993,dog,noun.animal,say,agency,""" Our man treats us well , "" his dogs said ."
+bruchac1993,dog,noun.animal,say,agency,""" "" Ah - hah , "" said the other man 's dog ."
+bruchac1993,animal,noun.animal,see,experience,Young Hunter wondered what that cloud animal saw during its brief life .
+bruchac1993,animal,noun.animal,know,agency,"It had been left when some fierce animal , no one knew what kind , had killed his parents as they slept in their solitary hunting lodge in the northernmost part of their watershed ."
+bruchac1993,Tail,noun.animal,do,agency,"There were more things that Weasel Tail did that day as the boys followed him , watching ."
+bruchac1993,fox,noun.animal,try,agency,The warmth of his palm made the bark move and twist as if the fox were trying to walk .
+bruchac1993,dog,noun.animal,join,agency,Then Young Hunter turned and walked to the edge of the village where his dogs joined him .
+bruchac1993,root,noun.plant,cure,agency,"Under the taller trees were many of the Strong Medicine Plant , the five - leafed one whose roots cured many things , giving strength to anyone who needed it ."
+bruchac1993,dog,noun.animal,kill,agency,"Together , the four dogs could kill even a full - grown bear ."
+bruchac1993,dog,noun.animal,say,agency,""" My friend , "" the dog said , "" I will tell you what we must do . '"
+bruchac1993,dog,noun.animal,continue,both,"“ Kitchi nidoba , my great friend , "" the dog continued , “ the fierce beast is close behind us ."
+bruchac1993,beast,noun.animal,kill,agency,"If you stay here , the fierce beast will certainly kill you ."
+bruchac1993,dog,noun.animal,heal,agency,Young Hunter knew that often a dog could heal its own wounds just by licking them .
+bruchac1993,dog,noun.animal,think,agency,"Dogs , Weasel Tail thought ."
+theroux1982,bird,noun.animal,know,agency,"It made sense to put scarecrows up at night , so the birds would not know ."
+theroux1982,dog,noun.animal,eat,agency,The dog had eaten his way under a rugflap of skin .
+theroux1982,dog,noun.animal,eat,agency,"Jerry said , “ We saw a dead cow , "" and told Father how a dog had been eating it by the roadside , watched by vultures "" with beaks like potato peelers . """
+theroux1982,root,noun.plant,say,agency,"She was firm like him and would not listen and was n't happy unless she was directing op- erations . - There was a certain fanlike plant here that was edible , Alice said — the roots of it ."
+theroux1982,bird,noun.animal,alert,experience,"A great uprush of them , big and small , shook the branches overhead , and these birds alerted the roosting birds , which took off like turkeys from the treetops ."
+theroux1982,treetop,noun.plant,continue,both,""" The treetops beneath us continued to the horizon , and the unbro- ken greenness gave it such a strong suggestion of depth that it hardly looked like forest at all ."
+theroux1982,snake,noun.animal,eat,agency,"One day , in a trap , we saw a snake eating another snake - half of it choked down his throat and both snakes thrashing their tails ."
+theroux1982,ant,noun.animal,say,agency,""" "" That is what the ants say ."
+theroux1982,lizard,noun.animal,leave,agency,"Lizards left their marks all over the bank , like bars on sheet music , with little noteprints above and below the lines of their tails ."
+hoeg1996,plant,noun.plant,try,agency,"Even in the examination room , which is painted like a living room , they 've brought in couple of floor lamps , and a green plant is trying to hold its own ."
+hoeg1996,bird,noun.animal,kill,agency,"So many birds killed , 29 cooked in clay , and eaten ; so many that I could n't remember them all ."
+hoeg1996,brontosaurus,noun.animal,regard,agency,""" Professor Loyen ... "" He pronounces the name with the interest and armed respect with which one brontosaurus has always regarded another ."
+hoeg1996,dog,noun.animal,manage,agency,"The dog manages to get his front paws in , but the man has to shove him the rest of the way ."
+hoeg1996,blubber,noun.animal,eat,agency,"The pink , slightly frothy whale blubber eaten from a communal platter ."
+hoeg1996,animal,noun.animal,know,agency,"A wild animal that has existed for only twenty thousand years , and in that time has known 206 only two types of mammals : its own species and its prey , the food ."
+hoeg1996,dog,noun.animal,leave,agency,I have a fair hope that tonight the dog will leave me in peace .
+hoeg1996,flea,noun.animal,suffer,experience,Apparently neither the water flea nor the mammal suffers any harm from it .
+hoeg1996,worm,noun.animal,develop,agency,"The Guinea worm has developed along with human beings , perhaps over the past million years ."
+hoeg1996,parasite,noun.animal,kill,agency,This is one of the primary rules of nature 's delicate balance : A good parasite does not kill its host .
+hoeg1996,larva,noun.animal,adapt,agency,But he found out that the larva had adapted to the human immune system .
+hoeg1996,parasite,noun.animal,adapt,agency,The parasite adapts to every single one .
+guthrie1947,beak,noun.animal,do,agency,"The other foot moved , and then the first , while the beak did its tiny beat ."
+guthrie1947,dog,noun.animal,try,agency,"He felt , rather than saw , the man standing outside the door , looking down across the river , standing there quiet and watchful , prying at the night with his eyes while the dog tried to tell him what he knew ."
+guthrie1947,cat,noun.animal,see,experience,""" The cats , ” he said , "" I did not see them go . """
+guthrie1947,sheep,noun.animal,say,agency,""" Rocky Mountain sheep , "" said Summers ."
+guthrie1947,wolf,noun.animal,leave,agency,"Yellow , red , and white along the shores , and flashings like the mirrored sun and , above and beyond , the prairie , the so - big plains rolling on , yellow and dry now so that even the single wolf left a slow trail of dust ."
+guthrie1947,horse,noun.animal,eat,agency,""" Horses eat enough bark to keep one of them there steamboats going ."
+guthrie1947,beaver,noun.animal,leave,agency,There were beaver left all right .
+guthrie1947,buffalo,noun.animal,leave,agency,"The cloud that the buffalo had left was sinking , and at the tail end of it Jim could see horsemen coming through ."
+guthrie1947,Beaver,noun.animal,say,agency,""" Beaver and otter , "" Jim said to Boone ."
+guthrie1947,fly,noun.animal,know,agency,How did a fly know when a critter was dead ?
+guthrie1947,fly,noun.animal,know,agency,Could a fly know when a man was going to be meat and to lie for the wolves and worms and the quick gray bugs that worked deep in the stink ?
+guthrie1947,rabbit,noun.animal,leave,agency,Even the running rabbit left puffs of it behind him .
+guthrie1947,mouse,noun.animal,leave,agency,"There was hardly a track in the snow , except now and then for the skittery print a mouse had left ."
+guthrie1947,frog,noun.animal,try,agency,"The sun lay warm and the air soft , and by night the frogs tried their voices ."
+guthrie1947,goat,noun.animal,save,agency,""" Rock goats saved us once ."
+guthrie1947,katydid,noun.animal,join,agency,"It would n't be so long until the katydids joined in , grieving because summer was going ."
+guthrie1947,bird,noun.animal,know,agency,""" "" A bird do n't know about that ."
+brautigan1967,trout,noun.animal,lose,both,The next page was 1893 and the totals were 33 trips and 480 trout lost for an average of 14.5 trout lost each trip .
+brautigan1967,deer,noun.animal,leave,agency,""" We only have three deer left , "" he said ."
+delillo1985,animal,noun.animal,commit,both,"Heinrich said to someone on the phone , “ Animals commit incest all the time ."
+delillo1985,animal,noun.animal,know,agency,"No sense of the irony of human existence , that we are the highest form of life on earth and yet ineffably sad because we know what no other animal knows , that we must die ."
+delillo1985,rat,noun.animal,cause,agency,These videotaped rats . ' “ What does it cause ? ” “ The movie was n't sure what it does to humans .
+delillo1985,dog,noun.animal,do,agency,“ That 's what their dog does .
+delillo1985,snake,noun.animal,know,agency,These snakes do n't know you find death inconceivable .
+delillo1985,mamba,noun.animal,happen,agency,The mamba happens to be the fastest - moving land snake a а 267 in the world .
+melville1846,elm,noun.plant,do,agency,"The bread - fruit tree , in its glorious prime , is a grand and towering object , forming the same feature in a Marquesan land scape that the patriarchal elm does in New - England scenery ."
+melville1846,tree,noun.plant,fail,both,"Were it not that the bread - fruit is thus capable of being pre served for a length of time , the natives might be reduced to a "" state of starvation ; for owing to some unknown cause the trees sometimes fail to bear fruit ; and on such occasions the islanders chiefly depend upon the supplies they have been enabled to store away ."
+melville1846,fruit,noun.plant,serve,agency,"a small cake of "" Amar , "" or a mess of "" Cokoo , "" two or three bananas , or a Mawmee apple ; an annuee , or some other agree able and nutritious fruit served from day to day to diversify the meal , which was finished by tossing off the liquid contents of a young cocoa - nut or two ."
+melville1846,harem,noun.plant,render,agency,"Turkish seraglio , and the harem rendered the abode of bearded men ; or conceive some beautiful woman in our own country run ning distracted at the sight of her numerous lovers murdering one another before her eyes , out of jealousy for the unequal distribu tion of her favors !"
+melville1846,hen,noun.animal,leave,agency,"Having heard that there were a considera ble number of fowls in the valley the progeny of some cocks and hens accidentally left there by an English vessel , and which , being strictly tabooed , flew about almost in a wild state he de termined to break through all restraints , and be the death of them ."
+head1969,plant,noun.plant,exist,both,You just could not see beyond tradition and its safety to the amazing truth you were starving — and that tough little plants existed that were easy to grow and well able to stand up to rigorous conditions and could provide you with food .
+head1969,tree,noun.plant,forget,agency,Those trees - he had forgotten to enlighten Ma- khaya on the full meaning of the life of the thorn scrub .
+head1969,tree,noun.plant,forget,agency,Those trees - he had forgotten to enlighten Ma- khaya on the full meaning of the life of the thorn scrub .
+head1969,goat,noun.animal,destroy,both,Much of north- ern Africa is desert today because the goats destroyed the thorn- bush .
+head1969,cattle,noun.animal,eat,agency,"Now , nodding their heads they slowly absorbed a new truth : if cattle ate bone dry grass for ten months , a day would arrive when all cattle would drop down dead ."
+head1969,beast,noun.animal,leave,agency,"The one thought in each man 's mind had been to hasten home , even if he only had one beast left ."
+head1969,bird,noun.animal,know,agency,"But whatever their deliberations , they were fearless and proud , for these mean , fierce birds knew that they were always the last visitors on a stricken part of the earth ."
+varley1984-2,animal,noun.animal,do,agency,She was n't going to let these animals do her dirty work for her .
+varley1984-2,rat,noun.animal,do,agency,""" And what would you expect rats to do ? ”"
+varley1984-2,elephant,noun.animal,fail,both,One elephant failed to get out of her way in time .
+varley1984-2,plant,noun.plant,continue,both,"For whatever reason , plants continued a to grow , water flowed , and air circulated ."
+varley1984-2,snake,noun.animal,manage,agency,"The chest wanted to fly apart , but the silvery snakes that threaded the thing 's body somehow managed to hold it together ."
+varley1984-2,female,noun.animal,produce,agency,The female produces a semi - fertilized egg .
+varley1984-2,gnat,noun.animal,destroy,both,Great brows beetled as she watched the deadly gnat destroy everything around her .
+varley1984-2,deathsnake,noun.animal,eat,agency,"The problem was that , in death , the cartilage rotted , and the deathsnakes ate it ."
+varley1984-2,snake,noun.animal,remember,both,"And in that moment of touching , Robin somehow knew the snake remembered her ."
+varley1984-2,sandworm,noun.animal,do,agency,"When that schizo Mnemosyne slipped off the deep end and started blubbering in her beer , boo - hoo - hoo , about what that lousy sandworm was doing to her stinking forests , did he lose faith in Gaea ?"
+varley1984-2,bird,noun.animal,tell,experience,a little bird told me they 're going to run into trouble that has nothing to do with you .
+traven1938,buzzard,noun.animal,leave,agency,The buzzards wo n't leave anything of me that could be identified .
+traven1938,sheep,noun.animal,do,agency,Back home I bleat exactly as do all the other sheep .
+gish1994,predator,noun.animal,do,agency,"For many ranchers in the West , admittedly , coyotes pose a problem — as do all “ predators . ”"
+gish1994,cottonwood,noun.plant,know,agency,And cottonwood knew of Raven 's restlessness .
+gish1994,dog,noun.animal,eat,agency,"And knowing that you are a male , Coyote , those dogs would just as soon eat you for breakfast as you would gobble down a nest of our children or a couple of our plump parents ."
+stadler1971,mouse,noun.animal,survive,both,""" Well , what about the foxes that 'll need those mice to survive ?"
+stadler1971,tree,noun.plant,say,agency,""" "" No , I would rather be as I am , "" said the fair young wil- lowy tree ."
+stadler1971,tree,noun.plant,say,agency,"“ And I do n't think that so very funny either ! "" said the fair young willowy tree ."
+stadler1971,tree,noun.plant,lose,both,"Sharp winter came harrying the world , and the fair young willowy tree lost her leaves again ; they flew away from her"
+stadler1971,bird,noun.animal,do,agency,"And like people who , apprehensive of death before their time , drive themselves to work or folly , the birds do likewise ; tomorrow we shall die ."
+stadler1971,gull,noun.animal,do,agency,What are the gulls doing ?
+stadler1971,bird,noun.animal,gain,agency,"The bodies would have to be clawed at , pecked and dragged aside before the living birds gained purchase on the sills and attacked the panes ."
+stadler1971,bird,noun.animal,try,agency,Any bird but the dove would try to do something .
+stadler1971,dove,noun.animal,try,agency,Any bird but the dove would try to do something .
+stadler1971,animal,noun.animal,do,agency,But why did animals and birds do this to him ?
+stadler1971,rabbit,noun.animal,do,agency,"He did n't know whether rabbits did that , but he did know that this particular mother was intelligent ."
+stadler1971,weasel,noun.animal,kill,agency,""" A weasel would 've killed it , "" he said ."
+stadler1971,bird,noun.animal,say,agency,"After two drinks , the bird had said , in effect , no more ."
+dick1993,sheep,noun.animal,contain,agency,11 The alleged sheep contained an oat - tropic circuit ; at the sight of such cereals it would scramble up convincingly and amble over .
+dick1993,colt,noun.animal,change,agency,"Percheron colts just do n't change in hands at catalogue value , even ."
+dick1993,owl,noun.animal,escape,agency,"At the time it had seemed almost funny , the fat , fluffy white birds lying here and there , in yards and on streets ; coming out no earlier than twilight as they had while alive the owls escaped notice ."
+dick1993,owl,noun.animal,say,agency,"' But an owl , ' Eldon Rosen said , ' is the thing you want . '"
+dick1993,cat,noun.animal,continue,both,The cat continued to wheeze .
+dick1993,chickenhead,noun.animal,say,agency,"61 "" The chickenhead , ' Sloat said , ' brought it in . '"
+dick1993,chickenhead,noun.animal,do,agency,"Isidore fumbled in his work smock pockets . 62 Sloat said , ' I want the chickenhead to do it . '"
+dick1993,goat,noun.animal,regard,agency,"The goat , which had slid about during the transfer , regarded him with bright - eyed perspicacity , but made no sound ."
+dick1993,Sheep,noun.animal,do,agency,"Sheep never do , not that I could detect ; whenever you look at them they 're looking back ."
+dick1993,animal,noun.animal,believe,agency,What happens when you find - if you find an animal believed extinct ?
+dick1993,fly,noun.animal,do,agency,""" Then I suggest our mixed assortment of artificial crawling and flying bugs of all types including - ' ' The flies will do , ' Iran said ."
+smiley1991,dog,noun.animal,perform,agency,"Most remarkably , the three dogs would perform a kind of drill , walking , lying down , sitting up , lying down again , and rolling over in unison on command ."
+smiley1991,parrot,noun.animal,learn,agency,"I said to Ty , "" From overhearing Cal training them , I suppose , this parrot had learned to give the commands , and when any of the dogs went into the living room , the parrot would start shouting orders , and the dogs would obey ."
+smiley1991,animal,noun.animal,do,agency,"Admittedly she was only nineteen , and she could n't pinpoint exactly what he was doing that was weird , looking around all the time , gawking at everyone , but more than that , throwing his head around sort of the way an animal does when it is frightened or in pain ."
+smiley1991,thistle,noun.plant,say,agency,"Thistles and tall native grasses ( "" Big bluestem , "" Jess would have said , "" switchgrass , Indian grass "" ) just about hid the rusting cyclone fence , grew all the way to the indistinct , crumbling edge ."
+callenbach1977,jackrabbit,noun.animal,cause,agency,"They pointed out changes in the fields and forests we passed ; in a wooded stretch someone spotted a doe with two fawns , and later a jackrabbit caused great amusement ."
+callenbach1977,livestock,noun.animal,suffer,experience,Has Ecotopian livestock or agricultural production suffered because of the conversion of so much land to forest ?
+callenbach1977,seed,noun.plant,generate,agency,Whatever seeds of mutual understanding my series of reports may be generating would be killed .
+callenbach1977,Lion,noun.animal,kill,agency,""" Lion killed a rabbit right under the platform , ” I said ."
+jersild1988,dog,noun.animal,understand,both,Does the dog understand what he sees when he looks at me ?
+jersild1988,dog,noun.animal,try,agency,"The dog tries to evade my glance , but I do n't relent : Nice paw !"
+jersild1988,dog,noun.animal,see,experience,"If the dog sees something tasty , he produces so much gastric juice that the experiment he is involved in could 47 be jeopardized ."
+jersild1988,dog,noun.animal,listen,agency,I notice that the dog is not listening .
+jersild1988,dog,noun.animal,serve,agency,I imagine that the dog has served his time .
+jersild1988,ape,noun.animal,say,agency,"- We must help each other to remember , says the ape ."
+jersild1988,ape,noun.animal,say,agency,"- We will make an agreement , says the ape ."
+jersild1988,pig,noun.animal,learn,agency,"But in some respects we were unique : pigs , guinea pigs , and rabbits can not learn sign language ."
+jersild1988,rat,noun.animal,eat,agency,"We solve the problem by having the Hand , en route home , make a detour into the room next door , where it lets the rats eat up the pieces of paper ."
+jersild1988,rat,noun.animal,eat,agency,And lets the rats eat it up .
+jersild1988,creature,noun.animal,learn,agency,It looked more like a shipwreck than anything else - and the creatures of the sea had learned to avoid wrecks .
+quinn1992,tiger,noun.animal,ask,agency,"the tiger asks itself hour after hour , day after day , year after year , as it treads its endless path behind the bars of its cage ."
+quinn1992,tiger,noun.animal,do,agency,And of course this questioning is something that no tiger does in its normal habitat .
+quinn1992,duck,noun.animal,say,agency,Do you know what a duck says ?
+quinn1992,blob,noun.animal,do,agency,"Well , at this , the creature drew itself up indignantly — at least you tell > > | 54 | ISHMAEL > as well as a squishy blob can do — and replied that his people had no such fanciful tale ."
+quinn1992,animal,noun.animal,kill,agency,"“ It should be noted , however , that animals will also kill in self - defense , or even when they merely feel threat- ened ."
+quinn1992,bee,noun.animal,deny,both,"Our policy is to deny our competitors access to all the food in the world , and that 's something no other species does . ” “ Bees will deny you access to what 's inside their hive in the apple tree , but they wo n't deny you access to the apples ."
+quinn1992,lion,noun.animal,kill,agency,"In the wild , the lion kills a gazelle and eats it ."
+quinn1992,deer,noun.animal,eat,agency,The deer eats the grass that 's there .
+quinn1992,lion,noun.animal,do,agency,"Most simply store it in their bodies , the way lions and deer and people do ."
+quinn1992,hyena,noun.animal,do,agency,"Is that fair ? ” “ I thought it was the other way around — the lions make the kill and the hyenas do the harassing . ” “ Lions make their own kills , of course , but they 're perfectly content to appropriate someone else 's if they can ."
+quinn1992,grass,noun.plant,mean,agency,"More grass for the game means more game , more game means more hyenas , more hyenas means ."
+quinn1992,hyena,noun.plant,mean,agency,"More grass for the game means more game , more game means more hyenas , more hyenas means ."
+quinn1992,Tree,noun.plant,destroy,both,"Though your groans fill the air , is n't it sweeter to live in our own hands than in the hands of the gods ? "" } } And when the gods heard all this , they saw that , of all the trees in the garden , only the Tree of the Knowledge of Good and Evil could destroy Adam ."
+quinn1992,lion,noun.animal,do,agency,"We take what we need from the world and leave the rest alone , just as the lion and the deer do ."
+quinn1992,lizard,noun.animal,do,agency,""" “ Sorry . ” “ Did Australopithecus become Homo by saying , ' We know good and evil as well as the gods , so there 's no need for us to live in their hands the way rabbits and lizards do ."
+quinn1992,snail,noun.animal,manage,agency,"Does being civilized mean that you have to destroy the world ? ” "" No . "" “ Does being civilized make you incapable of giving the crea- tures around in which to live ? ” "" No . "" “ Does it make you incapable of living as harmlessly as sharks and tarantulas and rattlesnakes ? ” "" No . "" “ Does it make you incapable of following a law that even snails and earthworms manage to follow without any difficulty ? ” "" No . "" "" As I pointed out some time ago , human settlement is n't against the law , it 's subject to the law — and the same is true of civilization ."
+hill1993,beast,noun.animal,exist,both,"Only two reported sightings of such a large animal , made with a few score of years between them , hardly is proof that such beasts exist ."
+hill1993,monkey,noun.animal,eat,agency,There is a saying which tells us that what fruits monkeys eat can also be eaten by humans .
+hill1993,kinkajou,noun.animal,add,agency,A kinkajou and a family of coatis added their voices .
+hill1993,anaconda,noun.animal,leave,agency,All Paulo could do was hold on until the anaconda left .
+hill1993,jaguar,noun.animal,know,agency,The mother jaguar obviously knew this swamp well .
+hill1993,jaguar,noun.animal,kill,agency,"A jaguar might have killed it but it would have torn it apart , scattering pieces of shell in every direction , not leaving it lumped all in one spot ."
+hill1993,monkey,noun.animal,eat,agency,"If those monkeys can eat these fruits , then I should be able to , he thought ."
+hill1993,monkey,noun.animal,ask,agency,"the monkey asked with an- "" I will give you only one more chance ."
+hill1993,animal,noun.animal,try,agency,"Standing fifteen or twenty feet away , the angry animals were trying to drive him from their dead sibling ."
+hill1993,monkey,noun.animal,do,agency,"Then , the monkeys did a strange thing ."
+hill1993,chicken,noun.animal,eat,agency,Besides the chickens eat them .
+hill1993,crab,noun.animal,learn,agency,"Behold the wonders of the mighty deep , Where crabs and lobsters learn to creep , And little fishes learn to swim , And clumsy sailors tumble in ."
+hill1993,fish,noun.animal,learn,agency,"Behold the wonders of the mighty deep , Where crabs and lobsters learn to creep , And little fishes learn to swim , And clumsy sailors tumble in ."
+hill1993,cat,noun.animal,say,agency,""" My favorite cat , "" the old man said , as he weakly rubbed his fur ."
+hill1993,predator,noun.animal,know,agency,"The great predator , not usually a coward , knew that with one bite he could crush forever this absurd bit of charging , yowling fur ."
+straley1992,animal,noun.animal,try,agency,"I felt like I had a spider digging into my inner ear , and a fur - bearing animal trying to claw its way out of my stomach ."
+straley1992,bear,noun.animal,eat,agency,"He picked up a gun and killed Louis , then left his body for the bears to eat ."
+straley1992,animal,noun.animal,listen,agency,I talk to the air and the animals listen .
+straley1992,bear,noun.animal,eat,agency,"Brown bears wo n't eat their human prey , it seems ; black bears do ."
+straley1992,bear,noun.animal,do,agency,"Brown bears wo n't eat their human prey , it seems ; black bears do ."
+straley1992,bear,noun.animal,eat,agency,Bears and humans eat the same kinds of food .
+straley1992,horsefly,noun.animal,create,agency,"An occasional horsefly would create a small disturbance in the still air and the wind would stir the trees above us , mixing the shadows in a warm broth ."
+straley1992,whale,noun.animal,leave,agency,The two whales left vapor clouds on the surface and I turned my back to them and walked into the wheelhouse .
+atwood1972,frog,noun.animal,fail,both,I begin to think the frog has failed .
+atwood1972,wolf,noun.animal,kill,agency,"Deer skeleton we found on the island , shreds of flesh on it still , he said the wolves had killed it in the winter because it was old , that was natural ."
+atwood1972,animal,noun.animal,learn,agency,"Sight flowing ahead of me over the ground , eyes filtering the shapes , the names of things fading but their forms and uses remaining , the animals learned what to eat without nouns ."
+atwood1972,eater,noun.animal,leave,agency,"Further in , the trees they did n't cut before the flood are marooned , broken and grey - white , tipped on their sides , their giant contorted roots bleached and skinless ; on the sodden trunks are colonies of plants , feeding on disintegration , laurel , sundew the insect - eater , its toenail - sized leaves sticky with red hairs ."
+atwood1972,animal,noun.animal,do,agency,All animals with dens do that .
+mueller1994,bird,noun.animal,kill,agency,Perhaps he does n't want any more birds killed for tourist trinkets .
+jewett1896,pennyroyal,noun.plant,provide,agency,Among the grass grew such pennyroyal as the rest of the world could not provide .
+jewett1896,chicken,noun.animal,do,agency,"There wa'n't no proper pasture for sheep after the June grass was past , and she ascertained the fact and could n't bear to see them suffer ; but the chickens done well ."
+jewett1896,bird,noun.animal,do,agency,"I may have been prejudiced , but I wa'n't the only one thought the poor little bird done the best of the two ."
+jewett1896,tree,noun.plant,act,agency,"Grown trees act that way sometimes , same 's folks ; then they 'll put right to it and strike their roots off into new ground and start all over again with real good courage ."
+jewett1896,gull,noun.animal,agree,both,"I stood on deck , looking back , and watched the busy gulls agree and turn , and sway together down the long slopes of air , then separate hastily and plunge into the waves ."
+amado1979,goat,noun.animal,learn,agency,That little goat will learn .
+amado1979,bird,noun.animal,say,agency,"The comic bird said good morning , asked for her blessing , and winked at her ."
+amado1979,shark,noun.animal,eat,agency,"He has only one arm , you know ; a shark ate the left one . ” "" Are there many sharks around here ? ” “ The sea 's full of them out there ."
+amado1979,male,noun.animal,say,agency,"“ Whisky on the rocks for me , ” said the presumptive male ."
+amado1979,shark,noun.animal,change,agency,"Not even the sharks in the angry sea , Carmô , not even they can change the fact that it 's all up with the crabs and the fishermen , all up with Mangue Seco ."
+amado1979,cat,noun.animal,say,agency,"They owed her plenty , let the old cats say anything they liked ."
+duncan1983,fish,noun.animal,kill,agency,The Fishing Derby Results : Ma - thirteen fish landed ; thirteen fish killed ; four fish lost once hooked ; largest fish seventeen pounds .
+duncan1983,fish,noun.animal,kill,agency,H2O - three fish landed ; zero fish killed ; eight fish lost once hooked ; largest fish nine pounds .
+duncan1983,fish,noun.animal,think,agency,It has been given to me to understand the way in which fish think ; it is therefore as easy for me to catch fish as it is for a skilled .
+duncan1983,fish,noun.animal,think,agency,And anyone who thinks I brag in stating that I understand fish - thought is obviously ignorant of the way in which fish think .
+duncan1983,cat,noun.animal,do,agency,"When I found myself wondering what a four - pound buck channel - cat might do to the residents of the Hawaiian - style aquarium owned by the debutante cheerleader who called me "" Fishface "" when I bumped into her in the hall , or how a col- ony of live crawdads might spice up that big , bland tossed salad at my Uncle Zeke 's wedding reception , or what reaction a school of squawfish might get from a convocation of derelicts waking from a night of DT 's beside the Skidmore Fountain , I loaded my trunk , drove off into the night , and found out ."
+duncan1983,fish,noun.animal,maintain,agency,"A fish maintains its silent , orderly existence within the confines of its tank ."
+duncan1983,trout,noun.animal,think,agency,"In my fished - out con- dition I found myself wondering what the trout must think of him , even imagined myself a fish on the bottom watching him hang like an icon in the fog overhead ."
+duncan1983,animal,noun.animal,do,agency,""" What about this : Suppose I kill a trout on the Metolius while somebody kills a deer in Montana while somebody else runs over a mouse in Minnesota while 8,000 people in 8,000 places all over the world die all at once of 8,000 sudden causes while 8 million animals and 8 trillion bugs and 8 zillion tiny organisms with shadows all do the same , all in an instant , which is about what happens all the time , you 'll have to ad- mit ...."
+duncan1983,fish,noun.animal,mean,agency,"But I 'd watched H2O at this for years , and I 'd seen that such sermons were suspect : for him and his friends more fish meant better flyfishing , better stories , prettier color glossies , a greater reading public , hence a greater income ."
+duncan1983,fish,noun.animal,kill,agency,How many fish could a man kill without his killing becoming wanton ?
+duncan1983,fish,noun.animal,understand,both,"She said the dam was new ; the fish could n't understand it ; they 'd been battling that torrent for weeks ; she said they 'd come 300 miles inland , surmounted Bonneville dam , climbed hundreds of rapids , leapt a dozen falls , but the ill - designed ladder leading to their birthplace and spawning grounds eluded them ."
+duncan1983,male,noun.animal,obtain,agency,"The male must never obtain so much as a glimpse of her flanks , otherwise he will immediately become ... unchivalrous ."
+duncan1983,hare,noun.animal,change,agency,There are many country people who believe hares change sexes every year .
+duncan1983,dog,noun.animal,continue,both,The dog continued to glower but remained motionless as I crept to the couch .
+duncan1983,dog,noun.animal,continue,both,The dog continued to glower but remained motionless as I crept to the couch .
+duncan1983,mouse,noun.animal,say,agency,"What sort of mouse ? "" He leaned toward me and in hushed tones announced , "" A singing mouse ! "" "" In other words , a squeaking mouse , "" I said ."
+duncan1983,graydigger,noun.animal,do,agency,"The singing mouse was all alone in the blue patch of light , sitting up on his back legs like a graydigger does , and singing his heart out ."
+duncan1983,ant,noun.animal,learn,agency,"and if other ants learned to canoe , what would prevent one of them from learning the closely related science of angling ?"
+duncan1983,ant,noun.animal,learn,agency,"and if one ant learned to angle , what would prevent it from teaching tens of thousands of other ants ?"
+duncan1983,trout,noun.animal,believe,agency,"And there was a pain in its mouth which its Racial Memory identified as toothache , a malady the poor trout had believed itself immune to ."
+duncan1983,trout,noun.animal,realize,agency,"Then the trout realized the anchor rope was fishing line , and that the ant had a hook ; adding one and one together , the trout got three : "" Holy Moses ! """
+duncan1983,ant,noun.animal,learn,agency,"it thought , “ the ant already has learned how to angle ! "" I landed the last trout in U.S. Grant Creek - a feisty , confused - looking little scrapper less interested in escape than in snapping the pea - coated ant ."
+duncan1983,dog,noun.animal,learn,agency,By a stroke of dumb luck this old dog learned a bagful of tricks from a young buck he bumped into Dutch 215 who just might be the finest fisherman this Great Northwest of ours has seen in many a decade .
+duncan1983,lion,noun.animal,eat,agency,A sea lion ate our lunker right off the line !
+duncan1983,fish,noun.animal,understand,both,Fish do n't understand science .
+duncan1983,fish,noun.animal,see,experience,"When he knows there are salmon or steelhead in a hole and they just are n't biting , he walks up to the edge of the water where the fish can all see him , props up his pole , pulls out a little line , places his lure on the ground a few feet from the pole , lays his landing net beside it , then retires into the bushes ."
+duncan1983,fish,noun.animal,enjoy,experience,That 's what fish really enjoy !
+duncan1983,fish,noun.animal,enjoy,experience,How do you know what fish enjoy ?
+duncan1983,fish,noun.animal,enjoy,experience,How do you know I do n't know what fish enjoy ?
+duncan1983,fish,noun.animal,enjoy,experience,"On the other hand , you are not a fish , so you do not know what fish enjoy !"
+duncan1983,fish,noun.animal,enjoy,experience,You asked me how I know what fish enjoy - so you already knew I knew when you asked the question !
+duncan1983,fly,noun.animal,prove,both,"And sometimes , when the flies or rods proved true , the swappers would sneak back when I was n't home and leave more whatever - it - was we 'd swapped for ."
+duncan1983,fish,noun.animal,do,agency,"These quiverings and jolts inside , they were not indescribable : they did to my head and heart what striking fish had always done to my hands as they held the rod ."
+duncan1983,evergreen,noun.plant,join,agency,On the deer trail the evergreens joined over my head .
+duncan1983,deer,noun.animal,see,experience,The deer and elk see him . . .
+duncan1983,animal,noun.animal,see,experience,"The animals did not see the two sitting as friends sit , nor as brothers sit , nor as fathers sit with sons ."
+duncan1983,animal,noun.animal,see,experience,"The animals saw one being sitting - not the spirit , not the boy ."
+duncan1983,raven,noun.animal,see,experience,"It will look down and see the same curves you saw from Tamanawis Mountain - but now you know that the raven will see no word , no question , no order - because there is no need for word or question , because there is no disorder ."
+duncan1983,raven,noun.animal,see,experience,"The raven will see the why as the river The Raven and the why 251 - wrote it as a simple , bending statement : the rivery intricacy from source to sea , the life and lives the water supports and contains , the infinity of facets it welds into one , all of this is not asked , but stated ."
+duncan1983,pig,noun.animal,add,agency,""" Stupid pigs , "" added Arjuna , nodding toward a covey of acneed girls feeding by the barns ."
+duncan1983,fish,noun.animal,see,experience,"I could n't get used to this : I know the fish could see me plainly , yet it swam at its unaltering pace along a close , parallel path ."
+duncan1983,animal,noun.animal,do,agency,"I 'd already sensed that the chi- nook had come to trust me , and soon after I saw that so , it seemed , did the animals and birds ."
+duncan1983,heron,noun.animal,say,agency,""" A scraggly ol' cowlick - headed goony - lookin ' long - legged fish - stab- bin ' heron , "" said Bill Bob ."
+duncan1983,fish,noun.animal,eat,agency,"In the second place , the bottles might wash into rocks and break 290 AT THE END OF THE LINE and people might cut their feet on them ; stupid little fish might eat the shards ; seagulls might choke on the corks ."
+duncan1983,fish,noun.animal,think,agency,"Because when the line is so fine and the equilibrium in the Fisher 's hand so great , it 's awfully easy for the trash fish of the human race to think and act as if the line of love were n't there , and to do stupid and nonsensical and terrible things to other people like put their birthdays in a vat and pick some of them to go kill other people ."
+momaday1968,rooster,noun.animal,warn,agency,The rooster warned him at once of what the soldiers I meant to do and gave him the spur from its right leg .
+momaday1968,cat,noun.animal,say,agency,"I mean , do you have idea what that cat said ?"
+momaday1968,horse,noun.animal,decide,agency,"And when they got right in the middle of the river , that crazy horse just decided to lie down and that old man fell off in the river ."
+momaday1968,bear,noun.animal,leave,agency,"The ground on either side sloped sharply down to a broad ravine and the edge of the timber beyond , and he saw the scored earth where the bear had left the rock and gone sliding down , and the swath in the brush of the ravine ."
+momaday1968,bear,noun.animal,know,agency,"The bear knew he was coming , knew better than he how close he was , was even now watching him from the wood , waiting , but still he must make no sound of hurry ."
+steinbeck1939,leaf,noun.plant,join,agency,"Beyond the fence , the corn lay beaten down by wind and heat and drought , and the cups where leaf joined stalk were filled with dust ."
+steinbeck1939,turtle,noun.animal,say,agency,"“ An old turtle , ” he said ."
+steinbeck1939,duck,noun.animal,say,agency,""" Now duck ! "" said Muley ."
+steinbeck1939,chicken,noun.animal,leave,agency,The few chickens had left the yard to hide in the tool shed from the sun .
+steinbeck1939,pig,noun.animal,say,agency,""" "" Not countin ' what chickens is left , an ' two pigs , "" said Noah ."
+steinbeck1939,cat,noun.animal,say,agency,"“ A ol hell - cat , ” he said ."
+steinbeck1939,crop,noun.plant,change,agency,And the crops changed .
+steinbeck1939,orchard,noun.plant,see,experience,""" Christ Almighty , with all this stuff a - growin ' : orchards , grapes , vegetables - I seen it ."
+steinbeck1939,grape,noun.plant,say,agency,"The Grapes of Wrath 339 a a “ Guess they smelled the cookin ' , ” said Ma ."
+steinbeck1939,root,noun.plant,resist,experience,"Behind the fruitfulness are men of understanding and knowledge and skill , men who experiment with seed , end- lessly developing the techniques for greater crops of plants whose roots will resist the million enemies of the earth : the molds , the insects , the rusts , the blights ."
+steinbeck1939,cherry,noun.plant,eat,agency,"Black cherries and red cherries , full and sweet , and the birds eat half of each cherry and the yellowjackets buzz into the holes the birds made ."
+steinbeck1939,bird,noun.animal,eat,agency,"Black cherries and red cherries , full and sweet , and the birds eat half of each cherry and the yellowjackets buzz into the holes the birds made ."
+sterchi1988,mare,noun.animal,try,agency,It was n't until a Freiberg mare tried to jump out of her harness with a loud whinny that life returned to that Sunday night .
+sterchi1988,dog,noun.animal,try,agency,"He had hardly set foot in the farmyard when he was lying on his back in the dirt , with an Alpine dog on top of him trying to lick the moustache off his face with its rough flannel of a tongue ."
+sterchi1988,calf,noun.animal,lose,both,"The calf lost its balance repeatedly , but it kept picking itself up again , like a prize - fighter , no sooner down than up again , more and more confident on its shaky legs ."
+sterchi1988,cow,noun.animal,wish,agency,Ridiculously spoiled that proud cow had been . Had n't he tried to guess her every cow wish from those gloopy eyes ?
+sterchi1988,calf,noun.animal,leave,agency,He cautiously milked out what the calf had left : half a pail .
+sterchi1988,cow,noun.animal,exist,both,"Ambrosio had never seen a bigger , stronger cow than Blösch , it had never even occurred to him that such a cow might exist ."
+sterchi1988,cattle,noun.animal,change,agency,"But in quiet , rather dull markets , Bologna cattle changed hands at little over contract prices , and Foreman Krummen pulled roughly at her halter and swore , while weigher Krähenbühl jabbed at the cow 's skinny belly with his wad of papers and said , ' Yah , move , you stupid cow ! '"
+sterchi1988,dandelion,noun.plant,leave,agency,"Knuchel clover grew on richly fertilized soil , and when it was forked into the cribs , fat and juicy and with dewy dandelion leaves in amongst it , the cows did n't need a second invitation ."
+sterchi1988,cow,noun.animal,do,agency,What do cows do in the evening ?
+sterchi1988,calf,noun.animal,do,agency,"He sipped the last of his coffee , got to his feet , picked up his hat and asked : ' Could I take a quick peek at your cowshed and see how the calf 's doing ? ' ' Yes , all right . '"
+sterchi1988,mouser,noun.animal,say,agency,"Steel - blue eyes , dimmed by alcohol , studied Ambrosio , and while the hand slowly closed again and turned onto its palm , the field - mouser said : a 83 ' Upon your belly you shall go , and dust you shall eat all the days of your life ! '"
+sterchi1988,milker,noun.animal,say,agency,"' Yes , Knuchel 's cut - price milker , ' said another ."
+sterchi1988,mouser,noun.animal,try,agency,There was more laughter and grinning when the field - mouser tried once more to get up .
+sterchi1988,mouse,noun.animal,do,agency,"And after he 'd asserted that while everyone knew which farmer produced the biggest calves , only he , the field - mouser could say where the mice did best for a living , he took his paws off the shoulders of Luigi and Ambrosio and roared : ' You should all sacrifice a golden mouse for every farm in the village , because there 's a plague of them on you all ! '"
+sterchi1988,mouser,noun.animal,do,agency,"The young farmer knocked his hands together as though to remove clinging particles of dirt , and said : “ That Spaniard struts about on our land as though it belonged to him , just like the field - mouser does . '"
+sterchi1988,cow,noun.animal,do,agency,That cow earlier did something to me .
+sterchi1988,cow,noun.animal,try,agency,The cow tries to free her head .
+sterchi1988,animal,noun.animal,refuse,both,"And the axe splinters the obtuse head , the brains squirt out , and every second animal refuses to lie down ."
+sterchi1988,cow,noun.animal,leave,agency,' We 're not having our cows leave the shed in the filthy condition of the Boden farmer 's animals .
+sterchi1988,cow,noun.animal,do,agency,"After a while , he pointed at the herd with his whip , and observed to Ruedi : ' The clover looks so fine , you would n't mind being a steer yourself for a while , and biting into that , but what do those cows do ?"
+sterchi1988,cow,noun.animal,do,agency,And so does the cow .
+sterchi1988,cow,noun.animal,eat,agency,"‘ For Christ 's sake now , ' laughed Knuchel , ' were our learned professors unaware that what a cow eats goes into her belly ? '"
+sterchi1988,mouser,noun.animal,offer,agency,"The field - mouser offered no insult , no hint , however tiny , of self - defence , he simply left , with such intangible sublimity that the customers at the Ox were left staring in perplexity at the door after it had closed behind him , before realizing that they had wasted their words ."
+sterchi1988,cow,noun.animal,eat,agency,"As though his hayloft had n't been swept bare for at least two weeks now , but was still full to the rafters of last season 's hay , he thought , appalled : Am I going to let his sorry cows eat my hay ? Gfeller , raising the glass to his mouth , but then straightaway putting it down on the table again , and scratching his ear , continued : ' With that ox last autumn , you know , we came to an agreement pretty quickly , and I remember saying to my wife at the time , that Hans Knuchel 's a nice fellow to do business with , that 's what I said ."
+sterchi1988,cow,noun.animal,produce,agency,"Yes , the best cow in the village , and they could n't produce one like her from their sheds , no , they only had large cattle units !"
+sterchi1988,cow,noun.animal,do,agency,"When something touches him , like that glass cow did just now , he suddenly changes colour , explodes , can only rant and hop and swear ."
+sterchi1988,hen,noun.animal,choose,both,"Given the choice : undernourishment and cold out of doors , or plentiful grub in a cage , hens would choose freedom ."
+sterchi1988,cow,noun.animal,destroy,both,That cow destroyed my tools .
+sterchi1988,calf,noun.animal,say,agency,"And calves , said Huber . - Bit on the skinny side , mind ."
+sterchi1988,meat,noun.animal,tell,experience,"No meat on them anywhere . - Now do n't tell me you would n't ... - Oh , it 's all claptrap anyway ."
+sterchi1988,cow,noun.animal,forget,agency,"But even on the Boden farm pasture , that was not enough to make the cows forget their reduced rations : and clover , lucerne and dandelion still spiced the air ."
+sterchi1988,cow,noun.animal,eat,agency,"The cows were eating their way towards the fence that ran alongside the village road , but they were uncommonly close together ."
+sterchi1988,cow,noun.animal,manage,agency,"What he 'd never been able to do on his own , those cows would manage for him ."
+sterchi1988,dog,noun.animal,think,agency,What lying dog thought up that one ?
+sterchi1988,calf,noun.animal,lose,both,"the calf lost the ground under its feet , it squirmed , its neck shook , its tongue frothed , it kicked and screamed ."
+sterchi1988,calf,noun.animal,see,experience,Those calves never saw grass in their lives .
+sterchi1988,cow,noun.animal,eat,agency,"The things a cow will eat , eh ?"
+sterchi1988,bull,noun.animal,upset,experience,"Since its centre of gravity was actually below the surface of the road , no raging bull could upset it ."
+sterchi1988,plant,noun.plant,do,agency,"As though the machines were there to show off with , but that 's how they are , no idea what a plant like that can do , now he 's looking like a monkey bit him , and he 's cold ."
+sterchi1988,cow,noun.animal,say,agency,"But oh , I have oh - nly myself to blame , said the cow , when she had to cart her own dung out into the fields ."
+sterchi1988,cow,noun.animal,happy,experience,"The lad 's not hungry , and another laugh between mouthfuls of beer , the farmer made his cows so happy , gave them all a little tranny , and Piccolo keeps missing the fly on the wall , rats , missed it again !"
+sterchi1988,cow,noun.animal,say,agency,What does the cow say when she gets artificial insemination for the first time ?
+sterchi1988,cow,noun.animal,say,agency,"The farmer did n't believe it either , so he went and hid himself up in the hayloft on top of the cowshed , this was on Christmas Eve , and he 's lying up there , and then suddenly this one cow says to the other , she 'd have to be yoked up in three days because she 'd be taking the farmer down to the churchyard , feet first ."
+sterchi1988,cow,noun.animal,lose,both,"Hügli smooths his hair , it 's not as though we were paid for it , and now that Fernando 's going to the tripery , and it is n't till a cow 's lost her tail that she realizes what it was worth to her , and where 's it all going to end ?"
+sterchi1988,pig,noun.animal,do,agency,"They do n't overflow , the way pigs do ."
+sterchi1988,sow,noun.animal,try,agency,"A sow that 's still at large climbs up on top of a dead one , tries to get her front feet onto the wall on the open side of the killing bay ."
+sterchi1988,pig,noun.animal,try,agency,"Climb up the side wall , like the pig tried to do just now ."
+sterchi1988,pig,noun.animal,try,agency,"In the corner , the castrated pig 's still trying ."
+sterchi1988,piglet,noun.animal,prove,both,The squealing pink piglets proved elusive .
+sterchi1988,cow,noun.animal,know,agency,"It was as though this cow knew about her ancestors , understood that she herself could only be a pale reflection of the mighty aurochs , who with his curved , arm - length horns had established a dominion that stretched from the bright woods and rich parkland of central Europe as far as the distant heart of China , an empire on which the sun seldom set , and that neither the treacherous Asian yak nor the sullen gaur had been able to take away from him ."
+sterchi1988,cow,noun.animal,understand,both,"It was as though this little cow understood the scorn and contempt that had been 350 levelled at her subjugated species since that time , but as though she could still just hear , from the very back of her skull , from where the extended marrow began , and the cerebellum , a vague rushing , a softened roar that filled her head as the sound of the sea fills the dry shell , and that could be none other than the echo of her ancestors ' hoofbeats as they thundered across the steppes , like storm clouds , in their great herds , and it was as though this rushing and roaring showed itself unmistakably in the humility in the eyes of the little cow ."
+sterchi1988,animal,noun.animal,lose,both,"He drank reverently , and if an animal loses a great deal of blood , and is unable to replace it quickly enough , its life may be saved if it is injected with the blood of another animal ."
+maron1986,rabbit,noun.animal,discover,both,"Wild rabbits had discovered his tulips and every morning when he came to look at them , he found a few stems without flowers ."
+varley1984,tree,noun.plant,produce,agency,"Each tree produced only one seed at a time , and when it reached maturity it exploded like a cannon shot ."
+varley1984,plant,noun.plant,say,agency,""" Whatever was inside , the plants like it , "" Gaby said ."
+varley1984,worm,noun.animal,know,agency,How do the worms know not to eat you ? ” Cirocco laughed .
+varley1984,vine,noun.plant,exist,both,"There were no grasses , and what vines existed were parasitic , 238 1 1 1 240 John Varley rooting in the tree trunks ."
+varley1984,tree,noun.plant,provide,agency,"The builders designed this large animal as a habitat for the trees , and in turn the trees provide habitats for smaller animals , and probably for the angels ."
+varley1984,egg,noun.animal,contain,agency,"Each egg I release contains the seeds of a million species , such as the electronic plants ."
+piercy1976,pigeon,noun.animal,do,agency,The pigeon did it .
+piercy1976,shark,noun.animal,do,agency,""" "" Do you control the weather ? "" "" The sharks did in the 1990s - pass the term ."
+piercy1976,rabbit,noun.animal,say,agency,""" "" When I was little , that was my favorite story , "" Jack- 131 For EACH 3 nove rabbit said ."
+piercy1976,rabbit,noun.animal,complain,agency,"They 've been slinging about it all week , "" Jack- 265 rabbit complained , knotting his hand in his curly hair ."
+piercy1976,animal,noun.animal,eat,agency,Other animals will eat .
+piercy1976,weed,noun.plant,heal,agency,"She shut it , then after a moment said , "" My grandmother knew weeds to heal with ."
+dodge1983,coyote,noun.animal,eat,agency,"But nobody could understand why he built them , for Tiny and Granddaddy did n't run any stock , and since coyotes had eaten the Bollen brothers out of the sheep business two years before , none of their immediate neigh- bors did either ."
+dodge1983,duck,noun.animal,say,agency,""" A baby duck , I think , "" Tiny said , and went on to explain how and where he 'd found the bird while his Granddaddy examined it , peer- 42 The Great Checker Showdown of ' 78 ing down close and occasionally prodding it with a gnarled finger , muttering to himself , "" Hardly alive except for a heartbeat , and even that 's ragged . """
+dodge1983,duck,noun.animal,see,experience,""" "" Better hope that duck do n't see it , "" Willis mumbled , watching as Fup speared the last few flecks of barley ."
+bergon1993,dog,noun.animal,know,agency,"He 'd been expecting Straightgut Leo to show up any day to help him in the gardens , but the dogs knew the old hermit and would not be so unremitting in their machine - gun barks ."
+bergon1993,dog,noun.animal,alert,experience,"After vespers , the dogs alerted Brother S to the distant , four- cycle whine of a rapidly revolving Volkswagen engine ."
+bergon1993,coyote,noun.animal,say,agency,He trusted only the wild horse said to eat from his hand and the coyotes said to scratch at his door at night .
+bergon1993,dog,noun.animal,recognize,both,He knew Brother S must 've woken when the dogs barked briefly at his arrival until they recognized the truck and resumed their customary silence .
+bergon1993,eagle,noun.animal,do,agency,"Brother Luke 's grave , visible from where Brother S sat , was a bizarre memento mori worthy of Jeremy Taylor in Holy Dying or John Donne in his Devotions , books St. Ed had made Brother S stop read- ing , with their horrifying seventeenth - century accounts of human fragility , evident in all the seemingly minor things that could kill a person : a raisin , a feather , a load of undigested meat , an oys- ter ( eaten ) or a turtle ( dropped on one 's skull , as an eagle did to Aeschylus ) , a pin , a hair pulled and gangrened , a stone tripped over , and , most shockingly , a little vapor - a vapor not forced but breathed - the stink of a mist , the emission of a cloud , the aspect of a star ."
+bergon1993,bee,noun.animal,know,agency,""" "" The bees do n't know what day of the week it is , "" Brother S replied ."
+bergon1993,turtle,noun.animal,lose,both,The turtles were losing weight and dying .
+wilhelm1976,dinosaur,noun.animal,know,agency,""" No more than the dinosaurs knew how to stop their own extinction ."
+wilhelm1976,offspring,noun.animal,survive,both,By the fifth generation no offspring survived longer than an hour or two .
+wilhelm1976,crop,noun.plant,fail,both,""" The corn crop has failed , as pre- dicted ."
+wilhelm1976,tree,noun.plant,see,experience,""" This tree saw the Indians in that valley , David , and the first settlers , and my great - grandfather when he came along ."
+wilhelm1976,bug,noun.animal,do,agency,""" That goddamn bug does something to the heart , I think ."
+wilhelm1976,embryo,noun.animal,do,agency,Let the damn embryos do their thing without him .
+wilhelm1976,cattle,noun.animal,do,agency,They accepted being mated as casually as the cattle did .
+wilhelm1976,seed,noun.plant,do,agency,"The valley is fertile , the seeds will do well ."
+wilhelm1976,insect,noun.animal,survive,both,"Only burrowing insects had survived : ants , termites . . ."
+wilhelm1976,fish,noun.animal,survive,both,"While they rowed , they talked of ways of netting fish for dinner , of drying fish for the return trip , of the excitement in the valley when they learned that fish had survived after all ."
+wilhelm1976,growth,noun.plant,create,agency,"The thick growth surrounding the Sumner house created a darkness that was like a hole in space , a blackness that would swallow up anything that chanced too close ."
+wilhelm1976,tree,noun.plant,tell,experience,""" The wind moves up there even when we ca n't feel it down here , and the trees and wind tell each other secrets ."
+wilhelm1976,tree,noun.plant,accept,both,"When she awakened , she knew the trees had accepted her ; they did n't stop their murmuring as they had always done in the past when she stirred about ."
+wilhelm1976,tree,noun.plant,consider,both,At first the spruce tree would n't even consider his suggestion .
+wilhelm1976,tree,noun.plant,think,agency,"He kept telling the spruce tree his idea over and over , and finally the spruce tree thought , What did he have to lose ?"
+wilhelm1976,tree,noun.plant,tell,experience,So the spruce tree told the woji to go ahead .
+wilhelm1976,tree,noun.plant,tell,experience,"The maple tree told the ice wind about the crazy little woji who had challenged his powers to take the leaves off the trees , and the ice wind became madder and madder ."
+wilhelm1976,tree,noun.plant,do,agency,""" The ice wind howled about the tree all winter , but the needles held tight and the woji stayed snug and warm , and if he nibbled on a needle now and then the tree forgave him , because he had taught it not to cringe and turn colors and stand naked all winter shivering before the ice wind just because that 's what the other trees did ."
+wilhelm1976,plant,noun.plant,survive,both,Much of the vegetation was dead ; only the hardiest plants were surviving .
+wilhelm1976,clone,noun.animal,do,agency,The implanted clones will do the thinking for them .
+ekman1995,birch,noun.plant,leave,agency,"Through the window , Johan could smell the grass as well as the birch leaves from the branches Torsten had put on the steps ."
+ekman1995,moss,noun.plant,exist,both,The stone where I usually sit and look at the lake has had moss on it as long as moss has existed .
+ekman1995,cow,noun.animal,exist,both,"Annie knew nothing about tracks , but such large cows did n't exist , so she told Mia elk had been there , leaving their round and oval spheres of droppings in big heaps ."
+ekman1995,animal,noun.animal,do,agency,"It was like two hairy animal coats we had down there , chafing against each other , courteously as animals do ."
+ekman1995,cowslip,noun.plant,forget,agency,"The kitchen and the living room were still full of fat bunches of flowers the schoolchildren had brought ; cowslips , globe flowers and red campion , forget - me - nots with tiny flowers , lilies - of - the- valley , their bells turning brown at the edges ."
+ekman1995,kestrel,noun.animal,say,agency,' Are they kestrels ? ' said Johan .
+ekman1995,willow,noun.plant,do,agency,"Later the hay meadows had grown meagre and matted , the grazing lands were overgrown , and the birch shoots had moved in , as did the ineradi- cable willow ."
+ekman1995,plant,noun.plant,survive,both,"In among the low birch thicket , here and there a spruce plant had survived , deformed by the snow , elk and storms ."
+ekman1995,scrub,noun.plant,learn,agency,The bilberry scrub finally learnt and retreated .
+eastlake1975,eagle,noun.animal,lose,both,"The eagle Sun had remarked too the monu- ments that would not fall to the new ocean sea - the Four Corners Power Plant that would puff poison black on the new shore , and the Playboy sign that would gyrate a naked neon lady sixty feet high , twirling a lasso on the new beach over a new New Mexico , the olden lost and unremarked under the soon - to - be ocean sea ."
+eastlake1975,eagle,noun.animal,kill,agency,"Eagles killed sheep , the ranchers said , and several cases have been known , they said , where white babies have been plucked from playpens and dropped in the ocean ."
+eastlake1975,eagle,noun.animal,destroy,both,"Today would be the day of death for Sun because , without a sure idea of himself , without purpose in life , an eagle would sooner destroy himself than re- main on earth ."
+eastlake1975,sheep,noun.animal,eat,agency,The poor want sheep to eat .
+eastlake1975,bird,noun.animal,learn,agency,But the tin bird was learning too .
+eastlake1975,eagle,noun.animal,know,agency,""" "" Why do you say that ? "" "" This eagle knew we were after him ."
+eastlake1975,eagle,noun.animal,think,agency,""" "" Maybe the eagle thinks this is his country ."
+eastlake1975,eaglet,noun.animal,do,agency,The eaglets were doing fine .
+eastlake1975,horse,noun.animal,see,experience,A horse packing a chain saw to cut down a sign big as a mountain .
+eastlake1975,beaver,noun.animal,know,agency,The beavers do not know the world is round .
+eastlake1975,killer,noun.animal,do,agency,"Which the coyote killers must have obediently done , be- cause no bodies flew out when they hit the bottom below the Painted Bird , only guns ."
+eastlake1975,animal,noun.animal,suffer,experience,"The coyote Emily Dickinson had taken a bullet in the front foot as though it were a self - inflicted wound , but it hurt very much and she yip yip yipped . "" Do n't you think , "" Cripsie said to Teddy between handing him clips of ammo , "" do n't you think other animals suffer , too ?"
+eastlake1975,horse,noun.animal,try,agency,The horses tried to get the ashram started again and failed .
+eastlake1975,dog,noun.animal,believe,agency,""" "" The dog or the people ? "" "" I believe both , "" Doctor Barnes said ."
+eastlake1975,horse,noun.animal,see,experience,The 211 horses had never seen naked people before and did not know how to behave .
+eastlake1975,antelope,noun.animal,say,agency,"The antelope , unable to talk , said nothing , but simply bounded away , leaving the Great Plain to the pride of timid cowboys and the naked bike ."
+eastlake1975,coyote,noun.animal,see,experience,"None knew again , none whether the yip yip yip that followed , that chased and devoured the wail , the bay , was a precursor of a new era following and chasing the old , devouring the old , or some mere complaint against timeless in- justice , a caterwaul against time and the whole damn universe , the chaos of ordained order as the coyote sees , feels , and sings it to the last explosion of a dying day ."
+eastlake1975,dog,noun.animal,help,agency,The dog with its charm had helped win the last election and listened carefully and bit people .
+dillard1992,ivy,noun.plant,leave,agency,"Ada marveled to see robins the size of ducks , ivy leaves the size of plates , maple leaves the size of platters ."
+dillard1992,maple,noun.plant,leave,agency,"Ada marveled to see robins the size of ducks , ivy leaves the size of plates , maple leaves the size of platters ."
+dillard1992,bear,noun.animal,learn,agency,"The bears learned which woods had pigs , and came down to cart them off ."
+dillard1992,horse,noun.animal,learn,agency,"The horse had learned to drink hot coffee in the Utah desert , where the alkali water was so bad he refused it ."
+dillard1992,crown,noun.plant,support,agency,"Early that morning , Rooney and Jack Pain set about whacking cautiously into the other fir - the one whose crown supported the widow - maker ."
+dillard1992,cow,noun.animal,eat,agency,"The cows ate ferns and brush all winter , and supplemental flakes of hay ."
+dillard1992,deer,noun.animal,try,agency,"The boy picked up a loop of intestine and ran off with it down the beach , while the deer tried to rise and follow ."
+dillard1992,deer,noun.animal,try,agency,"It uncoiled slick from the deer 's belly like rope paying out from a tub , while the deer tried to run after it ."
+dillard1992,owl,noun.animal,think,agency,How could an owl think it was spring ?
+dillard1992,ferny,noun.plant,leave,agency,"He took up botany with Billy Teece , and found the frail sweet cicely hidden along sheep paths ; its ferny leaves precisely fulfilled their destined forms , and its stem grew square like a mint 's ."
+dillard1992,horse,noun.animal,retire,agency,"In the Hunt stables , the horses retired for the night dressed in linen embroidered with the Hunt family crest ."
+dillard1992,stump,noun.plant,support,agency,Everywhere charred ten - foot fir stumps supported the hop vines and the stakes that raised them twenty feet off the ground .
+dillard1992,cow,noun.animal,try,agency,Maybe out in the shed right now the cow was trying to talk to the sewing machine .
+dillard1992,cat,noun.animal,eat,agency,Death had opened wide its mouth and consumed his father from end to end as a cat eats a mouse .
+dillard1992,trotter,noun.animal,join,agency,"In the thick of traffic downtown , his own glossy , matched trotters joined the others smoothly as salmon join salmon underwater ."
+dillard1992,tree,noun.plant,leave,agency,"The water table had risen halfway up the grass blades , and the coal - oil can floated off and lodged against the trunk of the cottonwood , the one tree left standing on the whole hillside ."
+dillard1992,cottonwood,noun.plant,leave,agency,"THE LIVING / 341 Now , in August , the cottonwood leaves hung dry on the backyard tree ."
+dillard1992,cow,noun.animal,eat,agency,"It entered a strip of timber where cows ate ferns , and burst out on the railroad grade up to the shore ."
+dillard1992,turtle,noun.animal,eat,agency,"By the Nooksack this noon , he had seen a turtle eat a bud ."
+dillard1992,snout,noun.animal,leave,agency,Their snouts left runnels in the silt .
+dillard1992,pig,noun.animal,see,experience,"The pigs saw him crouch and , murmuring , ran over to wreck his hole ."
+abbey1975,coyote,noun.animal,offer,agency,"• "" "" Far off , echoing from the cliffs , a rising then descending super- natural wail , full of mourning - or was it exultation ? "" A coyote ? "" she offered ."
+abbey1975,Silverfish,noun.animal,eat,agency,Silverfish ate their way through the cold sludge of R. Buckminster Fuller .
+abbey1975,pine,noun.plant,offer,agency,"In forested areas the clearing job would require a crew of loggers with chain saws , but here in southeast Utah , on the plateau , the little pinyon pines and junipers offered no re- sistance to the bulldozers ."
+abbey1975,pig,noun.animal,do,agency,""" So does a pig , madam ."
+abbey1975,tree,noun.plant,say,agency,""" 198 "" What trees ? "" says Hayduke ."
+abbey1975,branch,noun.plant,testify,agency,"One tall and healthy - looking juniper , well anchored in the stone , as its wind - sculpted branches testified , stood in photogenic silhouette against the sky ."
+abbey1975,cat,noun.animal,mean,agency,"There 's plenty of catfish in the Green , I mean channel cat , that 's good eatin ' , and generally easy to catch , and there is some deer in the side canyons ."
+abbey1975,puppy,noun.animal,pursue,agency,"The puppy pursues him for another hundred feet and stops , still barking , wagging its foolish tail ."
+kingsolver1990,dog,noun.animal,say,agency,"God 's dogs , "" Loyd said ."
+kingsolver1990,dog,noun.animal,think,agency,"A dog ca n't think that much about what he 's doing , he just does what feels right ."
+kingsolver1990,frog,noun.animal,do,agency,"There were fern palm trees and a mossy golf green , and the frogs obligingly did high - impact aerobics all over everything ."
+kingsolver1990,tree,noun.plant,know,agency,But your trees knew all this way before we did .
+kingsolver1990,bird,noun.animal,do,agency,You never really get to see what a bird could do .
+kingsolver1990,rooster,noun.animal,know,agency,""" "" Those roosters do n't know what 's happening to them ."
+kingsolver1990,cock,noun.animal,understand,both,"You think a fighting cock understands its life is pointless ? "" "" No , I think a fighting cock is stupider than a head of lettuce ."
+kingsolver1990,rooster,noun.animal,believe,agency,"The human mind seems doomed to believe , as simply as a rooster believes , that where we are now is the only possibility ."
+kingsolver1990,peacock,noun.animal,know,agency,A peacock would n't know the difference between a picnic and a funeral .
+kingsolver1990,bush,noun.plant,produce,agency,These artichoke bushes still produce .
+anaya1972,trunk,noun.plant,contain,agency,"My father carried on his shoulders the large blue - tin trunk which later I learned contained all of Ultima 's earthly possessions , the black dresses and shawls she wore , and the magic of her sweet smell- ing herbs ."
+anaya1972,carp,noun.animal,see,experience,The golden carp had seen me .
+anaya1972,branch,noun.plant,offer,agency,"The tree 's huge , dark branches offered protection , like a confessional ."
+anaya1972,carp,noun.animal,see,experience,"The two brown carp had seen us , and now they circled and waited for their master ."
+gary1958,elephant,noun.animal,try,agency,"It seems that the elephants Morel was trying to save were purely imagi- nary and symbolic , a parable , as they say , and that the poor bastard was really defending the old human rights , the rights of man , those noble , clumsy , gigantic , anachronistic survivals of another age - an- other geological epoch ."
+gary1958,animal,noun.animal,manage,agency,"That hunting by fire was still practiced by the natives on a large scale , and it had been his lot to stumble on six baby elephants , victims of a fire from which only fully grown animals had managed to escape thanks to their size and speed ?"
+gary1958,colossus,noun.animal,know,agency,"The three other men were Colonel Borrut , the military commander of the Chad , who was bending over a map and studying it with a concentration so obvious that it looked much more like prudent withdrawal than genuine interest ; the duty officer of the garrison , who had a tiresome tendency to spring to attention as soon as any of the eminent persons present raised his voice ; and , slightly to one side , Laurençot , the chief warden of the game re- serves , who was rarely seen at Fort Lamy and was always knocking about somewhere in the Oulé hills : a black colossus from Marti- nique , who was the only man Schölscher knew who could talk about lions without seeming ridiculous , and who now appeared sometimes anxious and sometimes exasperated ."
+gary1958,elephant,noun.animal,do,agency,"Yes , ' someone added , “ he 's done for , and it 's hard to see what the elephants can do to help him . '"
+gary1958,dog,noun.animal,manage,agency,"But the way things have been going , people have been seized by such a need for friendship and company that the dogs ca n't manage it ."
+gary1958,dog,noun.animal,tell,experience,"Unfortunately , the boy 's got a very sensitive soul : lying flat in his tent just now , with hell 's own attack of dysentery , begs me to let him go , but shall keep him alive till he bursts ; have caught him some fish , we must try and save our elite ; however , all is well , life 's worth living , let an old sea - dog tell you - and God knows the bastard knows what he 's talking about !"
+gary1958,beast,noun.animal,know,agency,"Habib , just behind him , said in that deep voice made deeper still by a restrained mirth : “ Yes , you 're one of us , and every beast knows it : try hard as you may , there 's no other company for you , brother ."
+gary1958,worm,noun.animal,try,agency,"The little worm tries to rid itself of the carcass encasing it , the only result being to make the bean leap slightly ."
+gary1958,elephant,noun.animal,do,agency,"“ The elephants have done that for me , ' was my first thought , and I could almost see their at- tentive little eyes watching me with irony — but of course those were only Morel 's eyes ."
+gary1958,beast,noun.animal,think,agency,I say about ourselves : the fact that a lie was a Communist one does n't make a damned bit of difference ; we all belong to the human species and no other beast could have thought that one out .
+gary1958,elephant,noun.animal,do,agency,"And as I 've told you , I had the feeling that the elephants had done all that for me ."
+gary1958,animal,noun.animal,kill,agency,"A hundred animals killed , to my knowl- edge ."
+gary1958,elephant,noun.animal,mean,agency,Even our illiterate comrades who have n't had a Marxist education all understood when we ex- plained to them what the elephants meant .
+gary1958,elephant,noun.animal,mean,agency,"To the white man the elephant had long meant merely ivory , and to the black man it always meant merely meat - the most abundant quantity of meat that a lucky hit with the assagai could procure for him ."
+gary1958,dog,noun.animal,decide,agency,"And when some mad dog of a misanthrope decided to go over to the animals , it was in his territory , under his nose , in his capital , that the man 's most sensational exploit took place ."
+gary1958,animal,noun.animal,manage,agency,He had stared at it a long time in wonder : it was hard to imagine how this fragile animal had managed to cross some hundred miles of rocks and sand .
+gary1958,animal,noun.animal,succeed,agency,"As he ran he caught sight of a magnificent bull with its enormous tusks raised toward the sky , lifting itself halfway up a rock in spite of the bullets fired at it almost point - blank ; as Fields took aim with his lens the animal succeeded in seizing the hunter with its trunk and rolled down into the water with him ."
+gary1958,animal,noun.animal,kill,agency,"The official figure communicated by the Chad au- thorities and reproduced in the press was two hundred and seventy animals killed , two hundred of them with tusks ."
+gary1958,animal,noun.animal,try,agency,"But the sound of dying still came from the lake , where the wounded animals were trying to find a refuge among the reeds ."
+gary1958,lion,noun.animal,mean,agency,"Every lion , every elephant at liberty , means still more waiting , still more savagery and primitivism , and the superior smile of the white technicians who pat us on the shoulder and tell us : ' You can see for yourself , old man , you ca n't do without us yet . '"
+gary1958,wolf,noun.animal,pursue,agency,"America emerged from limbo with the disap- pearance of the bison ; as long as wolves pursued the sledges on the Russian steppes , the Russian peasant died of squalor and ignorance ; and the day when there are no more lions or elephants in Africa there will be a people master at last of its own destiny ."
+gary1958,bird,noun.animal,create,agency,"And so the birds created , quite close to the earth , a heaven at arm 's length , at last accessible ."
+leguin1986,condor,noun.animal,see,experience,"Agate , the Librarian of the Madrone , began to say a recital piece called "" The Flight of the Great One , ” which he had made from an old written record by a Finder in the library ; it told of the Inland Sea and the Range of Light , the Omorn Sea and the Range of Heaven , the deserts of sage and the prairies of grass , the Mountain of the North and the Mountain of the South , all as the condor would see them flying ."
+leguin1986,condor,noun.animal,say,agency,"The old woman just opened her eyes and laughed and said , "" It seems the condor says you are ."
+leguin1986,owl,noun.animal,say,agency,"I said what the little owl says : u - u - u - u - u - u - u. "" Aha ! "" he said ."
+leguin1986,kitten,noun.animal,do,agency,"As a kitten does what all other kittens do , so a child wants to do what other children do , with a wanting that is as powerful as it is mindless ."
+leguin1986,pup,noun.animal,say,agency,"Her pups said , "" Hey ! Where 's Two - Legs ? """
+leguin1986,mouse,noun.animal,tell,experience,some dried mice : tupúde útí gosútí SOME STORIES TOLD ALOUD 69 Dira Told by Ire 's husband Red Bull to a group of children and young adolescents in the Obsidian heyimas .
+leguin1986,buzzard,noun.animal,eat,agency,They are what the buzzard and the coyote ate for breakfast yesterday .
+leguin1986,pig,noun.animal,do,agency,""" She said , "" This is how to tell the difference : deer run away , pigs do n't ."
+leguin1986,bird,noun.animal,escape,agency,"It went forward so fast , on a great wind out of the northeast , that even birds could not escape it ."
+leguin1986,apple,noun.plant,resist,experience,"Fairweather began to study with the apple trees of the Upper Valley orchards , working at crossbreeding to help the mountain apples resist the edge - curl disease ."
+leguin1986,animal,noun.animal,do,agency,"He used different kinds of noises , words like the ma- trix words of songs , and different kinds of silences and breathing ; and so did the animals ; but I never could understand what they were saying ."
+leguin1986,mare,noun.animal,teach,both,"The mare taught me how to ride that day , and I was on horseback all night dreaming , and the next day rode again ; and on the third day I rode in a race , on a roan colt from a household in Chukulmas ."
+leguin1986,ox,noun.animal,tell,experience,""" I said , "" How do you know that ? "" He said , "" An ox told me ."
+leguin1986,ox,noun.animal,tell,experience,""" The later it begins the longer you live with it , "" said I , as I had 302 ALWAYS COMING HOME learned at the Doctors Lodge ; but he said , "" One more World , one more Wine , the ox told me ."
+leguin1986,horse,noun.animal,know,agency,But the horse knew what was wrong : he would no longer let me handle him .
+leguin1986,owl,noun.animal,say,agency,"Owl said itself to itself : “ hu , hu , hu , hu . ”"
+leguin1986,flower,noun.plant,say,agency,"Monkey- flower said in a low voice , “ Moondog , do you know where she is ? """
+leguin1986,animal,noun.animal,eat,agency,Grain that animals and humans would have eaten was eaten by the machines .
+leguin1986,dog,noun.animal,kill,agency,"One day near our gathering trees I found a half- grown kid , lame and bleeding ; wild dogs had killed the mother and mauled the kid ."
+leguin1986,bean,noun.plant,leave,agency,"Buckbrush , the bean leaves need this water also ."
+leguin1986,crow,noun.animal,know,agency,"A whistle , though , made from the heartbone , plays the song the crow knows and wo n't sing , the song called Rejoining ."
+leguin1986,mussel,noun.animal,eat,agency,"The Fishers Lodges of the Lower Valley sometimes gathered shellfish on the sea beaches , but the Pacific “ red tides "" plus residual pollution of the oceans made mussel - eating a risky business ."
+leguin1986,coriander,noun.plant,leave,agency,Serve any or all of the following as accompaniments : chopped hardboiled eggs toasted tarweed or chia seeds chopped coriander leaves green onions green tomato or tomatillo sauce or sour pickle hot red pepper chutney or pickle currant jelly dried currants or chopped raisins These would be arranged in little dishes around the main dish .
+butler2000,dog,noun.animal,eat,agency,But dogs eat meat .
+butler2000,dog,noun.animal,worry,agency,"That last and the dogs worried me , scared me ."
+butler2000,dog,noun.animal,know,agency,And dogs might not know enough to be afraid of guns .
+butler2000,dog,noun.animal,try,agency,"The three dogs wandered among the camps , investigating what they pleased , and no one tried to drive them away ."
+butler2000,dog,noun.animal,eat,agency,""" I saw dogs eat a woman once ."
+butler2000,bug,noun.animal,eat,agency,""" If there 's enough water , if the bugs do n't eat our crops , PARABLE OF THE SOWER 321 if no one burns us out the way they did those people over the hill , if , if , if ! "" Allie sighed ."
+grahame1908,rabbit,noun.animal,say,agency,said an elderly rabbit at the ' Sixpence for the privilege of passing by the private road ! '
+grahame1908,animal,noun.animal,tell,experience,' It 's only what I always take on these little excursions ; and the other animals are always telling me that I 'm a mean beast and cut it very fine ! '
+grahame1908,horse,noun.animal,complain,agency,"They were strolling along the high - road easily , 38 THE WIND IN THE WILLOWS the Mole by the horse 's head , talking to him , since the horse had complained that he was being frightfully left out of it , and nobody considered him in the least ; the Toad and the Water Rat walking behind the cart talking together — at least Toad was talking , and Rat was saying at intervals , ' Yes , precisely ; and what did you say to him?'—and thinking all the time of something very different , when far behind them they heard a faint warning hum , like the drone of a distant bee ."
+grahame1908,Wood,noun.plant,leave,agency,"In the embracing light and warmth , warm and dry at last , with weary legs propped up in front of them , and a suggestive clink of plates being arranged on the table behind , it seemed to the storm - driven animals , now in MR . BADGER 73 safe anchorage , that the cold and trackless Wild Wood just left outside was miles and miles away , and all that they had suffered in it a half - forgotten dream ."
+grahame1908,animal,noun.animal,tell,experience,"He sat in his arm - chair at the head of the table , and nodded gravely at intervals as the animals told their story ; and he did not seem surprised or shocked at anything , and he never said , ' I told you so , ' or , ' Just what I always said , ' or remarked that they ought to have done so - and - so , or ought not to have done something else ."
+grahame1908,hedgehog,noun.animal,say,agency,"' O , terrible bad , sir , terrible deep the snow is , said the hedgehog ."
+grahame1908,animal,noun.animal,know,agency,"The animals well knew that Badger , having eaten having eaten a hearty breakfast , had retired to his study and settled himself in an arm - chair with his legs up on another and a red cotton handkerchief over his face , and was being ' busy ' in the usual way at this time of the year ."
+grahame1908,animal,noun.animal,say,agency,"' Stupid animal that I was ' ( he said ) , ' now I must languish in this dungeon , till people who were proud to say they knew me , have forgotten the very name of Toad !"
+grahame1908,Rat,noun.animal,say,agency,"' What , already , ' said the Rat , strolling up to them ."
+grahame1908,animal,noun.animal,say,agency,"But the Wild Wood animals said hard things , and served you right , and it was time this sort of thing was stopped ."
+grahame1908,animal,noun.animal,do,agency,"They were unarmed , and taken by surprise , and what can two animals do against hundreds ?"
+grahame1908,ferret,noun.animal,say,agency,' Who comes there ? ' said the ferret sharply .
+grahame1908,ferret,noun.animal,say,agency,"The ferret said never a word , but he brought ' LIKE SUMMER TEMPESTS ' 257 his gun up to his shoulder ."
+grahame1908,animal,noun.animal,continue,both,"* * * * After this climax , the four animals continued to lead their lives , so rudely broken in upon by civil war , in great joy and contentment , undis- turbed by further risings or invasions ."
+hope1996,monkey,noun.animal,do,agency,"As to my name a man needed a name , said the neighbours , but a monkey did not ."
+hope1996,donkey,noun.animal,eat,agency,Our donkeys would soon be eating all the fodder in the outspan place provided by the munici- pality .
+hope1996,lynx,noun.animal,try,agency,"Sometimes keening to themselves , a sound I last heard when a lynx tried to gnaw through its leg after being caught in John Jacobs the Jackal - hunter 's steel trap , in the far - away Karoo ."
+hope1996,elephant,noun.animal,see,experience,"With the shrill clarion call to arms you will hear when the she - elephant sees a hunter approaching her child , the females began trumpeting the alarm ."
+hope1996,lion,noun.animal,kill,agency,"Had I not picked it up a thousand times in the veld , where the lion has killed ?"
+hope1996,hare,noun.animal,believe,agency,"Oh , if only the hare had believed the moon that his mother truly lived ; then the hare , like the moon , would have lived for ever , and all the human family ."
+hope1996,lioness,noun.animal,do,agency,"Or , if I preferred , she would help me to leave Little Musing and travel with me through the length and breadth of the kingdom , safe- guarding me , as the lioness does her whelps ."
+hope1996,crane,noun.animal,tell,experience,The blue crane who walks the walk of peace will tell him little .
+hope1996,animal,noun.animal,do,agency,"But I was free to roam the grounds , as the animals did ."
+hope1996,cattle,noun.animal,eat,agency,"but I I might have replied that the Red People made war on except those whose cattle ate our land remembered where I was , and held my tongue ."
+hope1996,bugle,noun.animal,describe,experience,"I saw Lord Goodlove fall slowly , as if he was used to this , and his cracked little bugle described an 183 ~DARKEST ENGLAND~ arc of the sort you still see when the Evening Star fades from the sky at the first light and falls into the veld , ready to be born again the next night ."
+hope1996,cattle,noun.animal,suffer,experience,"Their cattle , which they prize hugely , suffer from a falling sickness , the cause of which is unknown , but which they attribute to the evil machinations , or even spells , or poisons , of forces across the water ' ."
+hope1996,cow,noun.animal,eat,agency,His hair had faded to the dull gleam of the golden double - daisy after cows have eaten it and their milk is already turning sour .
