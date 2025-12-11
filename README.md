@@ -3,7 +3,7 @@
 This is a description of the files used in the work "Agentic or experiencer? The Nonhuman Action in Ecofiction", submitted to the DH2026.
 
 1. `code.zip` includes:
-   - `concatenate_all.py`: concatenates BookNLP output files followed by the extensions `.supersense` and `.tokens`
+   - `concatenate_all.py`: concatenates BookNLP output files with the extensions `.supersense` and `.tokens`
    - `ecofiction.py`: runs the BookNLP pipeline on the corpus
    - `embedding.py`: calculates cosine similarity using Gensim Word2Vec
    - `expand.py`: outputs the words that are similar to based on the output of `embedding.py`
