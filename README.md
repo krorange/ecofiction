@@ -5,8 +5,8 @@ This is a description of the files used in the work "Agentic or experiencer? The
 1. `code.zip` includes:
    - `concatenate_all.py`: concatenates BookNLP output files with the extensions `.supersense` and `.tokens`
    - `ecofiction.py`: runs the BookNLP pipeline on the corpus
-   - `embedding.py`: calculates cosine similarity using Gensim Word2Vec
-   - `expand.py`: outputs the words that are similar to existing agentic and experiencer verbs based on the output of `embedding.py`
+   - `embedding.py`: calculates cosine similarity between corpus tokens and input agentic and experiencer verbs using Gensim Word2Vec embeddings
+   - `expand.py`: outputs agentic and experiencer words from the corpus based on the output of `embedding.py`
    - `human_verbs.py`: outputs sentences where human entities (tokens tagged with `noun.person`) collocate with agentic and experiencer verbs
    - `nonhuman_counts.py`: counts the number of nonhuman living entities (tokens tagged with `noun.animal` and `noun.plant`) per volume (book) in the corpus
    - `nonhuman_verbs.py`: outputs sentences where nonhuman living entities (tokens tagged with `noun.animal` and `noun.plant`) collocate with agentic and experiencer verbs
