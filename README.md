@@ -1,4 +1,4 @@
-# Agentic or experiencer? The Nonhuman Action in Ecofiction
+# Agentic or Experiencer? The Nonhuman Action in Ecofiction
 
 This is a description of the files used in the work "Agentic or Experiencer? The Nonhuman Action in Ecofiction", submitted to the DH2026.
 
