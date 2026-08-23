@@ -1,6 +1,6 @@
 # Agentic or experiencer? The Nonhuman Action in Ecofiction
 
-This is a description of the files used in the work "Agentic or experiencer? The Nonhuman Action in Ecofiction", submitted to the DH2026.
+This is a description of the files used in the work "Agentic or Experiencer? The Nonhuman Action in Ecofiction", submitted to the DH2026.
 
 1. `code.zip` includes:
    - `concatenate_all.py`: concatenates BookNLP output files with the extensions `.supersense` and `.tokens`
